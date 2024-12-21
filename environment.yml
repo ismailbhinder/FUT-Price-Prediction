@@ -1,0 +1,6 @@
+name: fut
+dependencies:
+  - python
+  - beautifulsoup4
+  - requests
+  - pandas
