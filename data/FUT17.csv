@@ -1,0 +1,464 @@
+Name,Rating,SkillsMoves,WeakFoot,Pace,Shooting,Passing,Dribbling,Defending,Phyiscality,BaseStats,InGameStats,Position,WorkRate,Club,Country,League,Price
+Cristiano Ronaldo,94,5,4,92,92,81,91,33,80,469,2166,LW,H\L,Real Madrid,Portugal,LaLiga Santander,1243307
+Messi,93,4,4,89,90,86,96,26,61,448,2099,RW,M\M,FC Barcelona,Argentina,LaLiga Santander,925170
+Neuer,92,1,4,89,90,95,89,58,91,512,1037,GK,M\M,FC Bayern,Germany,Bundesliga,164500
+Suárez,92,4,4,82,90,79,87,42,79,459,2134,ST,H\M,FC Barcelona,Uruguay,LaLiga Santander,438431
+Neymar,92,5,5,91,84,78,95,30,56,434,2018,LW,H\M,FC Barcelona,Brazil,LaLiga Santander,428441
+Ibrahimovic,90,4,4,72,90,81,85,31,86,445,2055,ST,M\L,Manchester Utd,Sweden,Premier League,402287
+Bale,90,4,3,94,87,84,86,57,76,484,2204,RW,H\M,Real Madrid,Wales,LaLiga Santander,415176
+Boateng,90,2,4,79,50,72,68,90,85,444,1970,CB,M\M,FC Bayern,Germany,Bundesliga,124125
+Lewandowski,90,3,4,81,87,74,85,38,82,447,2060,ST,M\M,FC Bayern,Poland,Bundesliga,186319
+De Gea,90,1,3,88,85,87,90,56,85,491,945,GK,M\M,Manchester Utd,Spain,Premier League,105333
+Agüero,89,4,4,89,88,75,89,23,70,434,2010,ST,H\M,Manchester City,Argentina,Premier League,348912
+Sergio Ramos,89,3,3,78,63,70,70,87,83,451,2095,CB,H\M,Real Madrid,Spain,LaLiga Santander,102000
+Thiago Silva,89,3,3,74,57,73,73,90,79,446,2099,CB,H\H,PSG,Brazil,Ligue 1,47000
+Özil,89,4,2,72,74,86,86,24,58,400,1885,CAM,M\L,Arsenal,Germany,Premier League,72813
+Modric,89,4,4,74,75,86,89,72,66,462,2179,CM,H\M,Real Madrid,Croatia,LaLiga Santander,71455
+Courtois,89,1,3,84,91,69,89,46,86,465,863,GK,M\M,Chelsea,Belgium,Premier League,47500
+Iniesta,88,4,4,73,72,87,90,59,60,441,2056,CM,H\M,FC Barcelona,Spain,LaLiga Santander,45485
+Buffon,88,1,2,87,88,68,84,49,90,466,910,GK,M\M,Juventus,Italy,Calcio A,28208
+Cech,88,1,3,83,90,77,85,45,85,465,776,GK,M\M,Arsenal,Czech Republic,Premier League,30464
+Pepe,88,2,3,70,50,56,59,88,81,404,1805,CB,M\H,Real Madrid,Portugal,LaLiga Santander,36875
+Lahm,88,3,3,68,56,82,84,86,64,440,2105,RB,M\H,FC Bayern,Germany,Bundesliga,33000
+Chiellini,88,2,2,74,46,53,58,90,85,406,1837,CB,L\H,Juventus,Italy,Calcio A,43553
+Higuaín,88,3,4,80,87,68,82,24,74,415,1889,ST,H\M,Juventus,Argentina,Calcio A,73470
+Lloris,88,1,1,87,87,68,90,65,82,479,861,GK,M\M,Spurs,France,Premier League,34144
+Godín,88,2,3,65,48,65,63,88,79,408,1883,CB,M\H,Atlético Madrid,Uruguay,LaLiga Santander,28000
+Kroos,88,3,5,45,80,88,79,69,70,431,2054,CM,M\M,Real Madrid,Germany,LaLiga Santander,30000
+Hazard,88,4,4,90,81,82,91,32,64,440,2029,LM,H\M,Chelsea,Belgium,Premier League,185237
+Reus,88,4,4,90,85,84,86,40,63,448,2092,LM,M\M,Bor. Dortmund,Germany,Bundesliga,162376
+De Bruyne,88,4,4,77,83,86,84,40,75,445,2066,CAM,H\M,Manchester City,Belgium,Premier League,184986
+Griezmann,88,4,3,86,85,78,87,30,67,433,2036,ST,H\M,Atlético Madrid,France,LaLiga Santander,163081
+Pogba,88,5,4,77,80,83,87,72,87,486,2251,CM,H\M,Manchester Utd,France,Premier League,433788
+Robben,87,4,2,86,85,81,90,32,62,436,2028,RM,H\L,FC Bayern,Netherlands,Bundesliga,121384
+Handanovic,87,1,2,86,89,69,86,54,86,470,848,GK,M\M,Inter,Slovenia,Calcio A,15583
+Benzema,87,4,4,81,84,77,82,22,74,420,1920,ST,M\L,Real Madrid,France,LaLiga Santander,63918
+David Silva,87,4,2,68,72,87,87,32,58,404,1953,CAM,H\L,Manchester City,Spain,Premier League,35000
+Rakitic,87,3,3,66,84,86,82,59,66,443,2076,CM,M\M,FC Barcelona,Croatia,LaLiga Santander,36000
+Hummels,87,2,3,64,58,74,71,88,77,432,1990,CB,H\M,FC Bayern,Germany,Bundesliga,43000
+Vidal,87,3,4,77,81,80,79,84,84,485,2271,CM,H\H,FC Bayern,Chile,Bundesliga,90750
+Di María,87,5,2,87,79,84,87,47,70,454,2100,RW,H\M,PSG,Argentina,Ligue 1,66221
+Bonucci,87,2,3,70,53,68,69,87,81,428,1970,CB,M\H,Juventus,Italy,Calcio A,26838
+Sánchez,87,4,3,86,82,79,88,39,74,448,2091,LW,H\H,Arsenal,Chile,Premier League,155190
+Sergio Busquets,87,3,3,42,59,79,74,83,81,418,1964,CDM,M\M,FC Barcelona,Spain,LaLiga Santander,13000
+Müller,87,3,4,78,83,77,78,46,72,434,2034,CF,H\H,FC Bayern,Germany,Bundesliga,43522
+Alaba,87,3,4,86,73,81,83,83,73,479,2239,LB,H\M,FC Bayern,Austria,Bundesliga,95000
+Rodríguez,87,4,3,76,85,85,85,40,68,439,2061,CAM,M\M,Real Madrid,Colombia,LaLiga Santander,66833
+Oblak,87,1,3,83,90,77,82,43,87,462,878,GK,M\M,Atlético Madrid,Slovenia,LaLiga Santander,15500
+Barzagli,86,2,3,74,37,56,63,89,79,398,1781,CB,L\H,Juventus,Italy,Calcio A,16280
+Kompany,86,2,3,69,54,62,65,86,81,417,1880,CB,M\M,Manchester City,Belgium,Premier League,34000
+Santi Cazorla,86,4,5,71,78,85,86,57,64,441,2098,CAM,M\M,Arsenal,Spain,Premier League,26625
+Piqué,86,2,3,61,61,70,64,86,76,418,1904,CB,H\M,FC Barcelona,Spain,LaLiga Santander,10750
+Ribéry,86,5,4,82,76,83,90,25,59,415,1936,LM,H\M,FC Bayern,France,Bundesliga,38214
+Cesc Fàbregas,86,3,3,63,77,89,81,61,64,435,2074,CM,H\M,Chelsea,Spain,Premier League,25250
+Miranda,86,2,3,75,49,56,64,89,77,410,1831,CB,M\M,Inter,Brazil,Calcio A,17500
+Matuidi,86,2,2,79,67,78,76,83,84,467,2138,CDM,H\H,PSG,France,Ligue 1,25156
+Marchisio,86,4,4,77,74,83,83,76,75,468,2194,CM,H\H,Juventus,Italy,Calcio A,48094
+Marcelo,86,4,4,79,69,80,84,82,80,474,2159,LB,H\M,Real Madrid,Brazil,LaLiga Santander,31250
+Payet,86,4,4,77,78,87,87,42,70,441,2044,LM,H\M,West Ham,France,Premier League,29475
+Aubameyang,86,3,4,96,84,75,80,37,71,443,2024,ST,H\L,Bor. Dortmund,Gabon,Bundesliga,194077
+Jordi Alba,86,3,3,93,69,75,83,81,75,476,2154,LB,H\M,FC Barcelona,Spain,LaLiga Santander,37500
+Leno,86,1,4,85,86,80,83,46,86,466,836,GK,M\M,Bayer 04,Germany,Bundesliga,18344
+Mascherano,85,2,3,66,53,71,69,85,80,424,1977,CB,M\H,FC Barcelona,Argentina,LaLiga Santander,6000
+Dani Alves,85,3,3,87,70,76,82,78,69,462,2152,RB,H\L,Juventus,Brazil,Calcio A,24000
+Mandanda,85,1,3,86,80,79,85,53,81,464,794,GK,M\M,Crystal Palace,France,Premier League,12833
+Filipe Luís,85,3,3,80,62,77,77,82,79,457,2087,LB,H\M,Atlético Madrid,Brazil,LaLiga Santander,14750
+Koscielny,85,2,3,78,40,62,65,85,78,408,1817,CB,M\H,Arsenal,France,Premier League,32554
+Ruffier,85,1,3,82,83,77,87,45,83,457,841,GK,M\M,Saint-Etienne,France,Ligue 1,4800
+Hamšik,85,3,4,76,78,83,82,64,69,452,2094,CM,H\M,Napoli,Slovakia,Calcio A,20344
+Bravo,85,1,3,83,85,87,85,58,78,476,1008,GK,M\M,Manchester City,Chile,Premier League,19500
+Cavani,85,3,3,76,83,71,79,42,80,431,2023,ST,H\M,PSG,Uruguay,Ligue 1,12500
+Diego Costa,85,3,4,75,82,63,77,40,88,425,1908,ST,H\M,Chelsea,Spain,Premier League,43195
+Pjanic,85,4,4,74,75,86,84,64,68,451,2123,CM,M\M,Juventus,Bosnia Herzegovina,Calcio A,29433
+Willian,85,4,4,89,74,80,86,50,63,442,1983,RM,H\H,Chelsea,Brazil,Premier League,52355
+Alderweireld,85,2,3,66,58,70,64,86,79,423,1962,CB,M\M,Spurs,Belgium,Premier League,17500
+Gaitán,85,4,2,82,74,83,86,39,58,422,1990,LM,M\M,Atlético Madrid,Argentina,LaLiga Santander,7900
+Gündogan,85,4,4,75,72,84,87,63,72,453,2106,CM,H\M,Manchester City,Germany,Premier League,40665
+Coutinho,85,4,4,82,74,82,87,33,56,414,1921,CAM,H\M,Liverpool,Brazil,Premier League,43369
+Pastore,85,4,4,74,77,84,86,58,68,447,2051,CM,H\M,PSG,Argentina,Ligue 1,11000
+Otamendi,85,2,3,72,56,56,53,85,82,404,1861,CB,M\M,Manchester City,Argentina,Premier League,26380
+Mkhitaryan,85,4,5,83,77,81,87,55,70,453,2103,RM,H\H,Manchester Utd,Armenia,Premier League,33650
+Navas,85,1,3,87,82,72,85,61,80,467,912,GK,M\M,Real Madrid,Costa Rica,LaLiga Santander,9850
+Lacazette,85,4,4,86,82,75,84,34,76,437,2030,ST,H\H,Olympique Lyon,France,Ligue 1,52686
+Verratti,85,4,4,68,58,83,87,78,68,442,2080,CM,H\H,PSG,Italy,Ligue 1,7500
+Mahrez,85,5,4,82,77,80,88,30,58,415,1899,RM,M\M,Leicester City,Algeria,Premier League,45986
+Dybala,85,4,3,88,86,76,90,23,66,429,1991,ST,M\M,Juventus,Argentina,Calcio A,129241
+Terry,84,2,4,34,47,57,51,86,80,355,1682,CB,M\H,Chelsea,England,Premier League,2200
+Touré,84,3,4,74,83,81,77,69,84,468,2139,CM,M\L,Manchester City,Ivory Coast,Premier League,44706
+José Reina,84,1,3,80,85,82,83,50,84,464,882,GK,M\M,Napoli,Spain,Calcio A,2700
+Xabi Alonso,84,2,4,33,70,87,75,76,71,412,2027,CDM,L\M,FC Bayern,Spain,Bundesliga,3200
+Rooney,84,3,4,71,84,81,79,53,86,454,2147,CAM,M\H,Manchester Utd,England,Premier League,25460
+Aduriz,84,3,3,70,83,64,76,46,79,418,1931,ST,H\M,Athletic Bilbao,Spain,LaLiga Santander,2200
+Turan,84,4,4,72,74,83,86,61,73,449,2117,CM,H\H,FC Barcelona,Turkey,LaLiga Santander,6185
+Hart,84,1,3,84,81,75,87,59,82,468,938,GK,M\M,Torino,England,Calcio A,3300
+Ben Arfa,84,5,4,82,82,79,88,40,74,445,2032,CAM,H\L,PSG,France,Ligue 1,34601
+Garay,84,2,3,52,57,68,64,87,81,409,1897,CB,M\M,Valencia CF,Argentina,LaLiga Santander,2000
+Sturridge,84,4,2,89,83,69,81,25,70,417,1880,ST,M\L,Liverpool,England,Premier League,52769
+Naldo,84,2,4,72,69,64,62,86,74,427,1926,CB,H\M,FC Schalke 04,Brazil,Bundesliga,12750
+Sokratis,84,2,3,78,51,55,60,85,83,412,1828,CB,M\M,Bor. Dortmund,Greece,Bundesliga,9403
+Jonas,84,3,5,72,85,78,84,35,65,419,1991,ST,H\M,SL Benfica,Brazil,LIGA NOS,2600
+Javi Martinez,84,2,3,52,61,70,65,84,78,410,1912,CB,M\M,FC Bayern,Spain,Bundesliga,3300
+Sommer,84,1,4,83,82,85,85,48,80,463,890,GK,M\M,Bor. M'gladbach,Switzerland,Bundesliga,2700
+Rui Patrício,84,1,2,85,81,80,83,53,82,464,943,GK,M\M,Sporting CP,Portugal,LIGA NOS,1350
+Juan Mata,84,3,3,68,75,84,85,32,54,398,1941,CAM,M\M,Manchester Utd,Spain,Premier League,6050
+Nainggolan,84,3,3,79,78,78,81,81,84,481,2217,CM,H\H,Roma,Belgium,Calcio A,37269
+Banega,84,4,4,71,71,85,83,64,69,443,2076,CAM,M\M,Inter,Argentina,Calcio A,5651
+Fährmann,84,1,2,83,86,51,87,38,85,430,796,GK,M\M,FC Schalke 04,Germany,Bundesliga,6050
+Höwedes,84,2,3,65,47,63,65,84,78,402,1829,CB,M\M,FC Schalke 04,Germany,Bundesliga,3600
+David Luiz,84,3,3,73,64,73,71,82,79,442,2065,CB,H\M,Chelsea,Brazil,Premier League,35000
+Azpilicueta,84,3,3,79,56,75,74,84,77,445,2042,LB,M\M,Chelsea,Spain,Premier League,6767
+Toprak,84,2,5,76,39,62,67,86,75,405,1819,CB,M\M,Bayer 04,Turkey,Bundesliga,5031
+Ramsey,84,3,3,69,77,80,81,68,76,451,2102,CM,H\H,Arsenal,Wales,Premier League,8719
+Thiago,84,5,3,72,75,82,89,57,62,437,2083,CM,M\M,FC Bayern,Spain,Bundesliga,12962
+Smalling,84,2,3,77,46,56,62,84,84,409,1798,CB,M\H,Manchester Utd,England,Premier League,19178
+Eriksen,84,4,5,76,76,84,84,44,59,423,1967,CAM,H\M,Spurs,Denmark,Premier League,13404
+Douglas Costa,84,5,3,92,78,78,86,48,63,445,2049,LM,M\L,FC Bayern,Brazil,Bundesliga,32330
+Alex Sandro,84,3,3,87,64,75,81,79,76,462,2104,LB,H\H,Juventus,Brazil,Calcio A,13289
+Matic,84,3,3,67,70,76,72,81,88,454,2082,CDM,M\H,Chelsea,Serbia,Premier League,9913
+Götze,84,4,4,70,70,78,89,31,61,399,1873,CAM,M\M,Bor. Dortmund,Germany,Bundesliga,8948
+Lukaku,84,3,4,82,82,66,74,34,84,422,1893,ST,M\M,Everton,Belgium,Premier League,29755
+Manolas,84,2,2,80,19,42,60,86,82,369,1590,CB,M\H,Roma,Greece,Calcio A,7788
+Koke,84,3,4,71,75,85,82,55,74,442,2048,CM,H\H,Atlético Madrid,Spain,LaLiga Santander,7100
+Krychowiak,84,2,3,70,58,73,67,81,87,436,1976,CDM,M\H,PSG,Poland,Ligue 1,2400
+Isco,84,4,3,72,75,80,86,39,62,414,1944,CAM,H\M,Real Madrid,Spain,LaLiga Santander,8795
+Xhaka,84,3,4,51,66,81,72,72,77,419,1960,CM,M\M,Arsenal,Switzerland,Premier League,6685
+Varane,84,2,3,77,45,60,63,85,78,408,1806,CB,M\M,Real Madrid,France,LaLiga Santander,9673
+Kane,84,3,3,73,84,71,78,42,81,429,1973,ST,H\H,Spurs,England,Premier League,10375
+Draxler,84,4,5,77,79,80,86,34,64,420,1954,CAM,M\L,VfL Wolfsburg,Germany,Bundesliga,11709
+William Carvalho,84,3,4,54,59,74,74,82,85,428,1925,CDM,M\H,Sporting CP,Portugal,LIGA NOS,1000
+Bacca,84,3,2,85,81,64,81,24,74,409,1873,ST,M\L,Milan,Colombia,Calcio A,10336
+André Gomes,84,3,4,69,71,80,83,71,81,455,2058,CM,M\M,FC Barcelona,Portugal,LaLiga Santander,8850
+Laporte,84,2,2,65,50,66,61,86,78,406,1867,CB,M\M,Athletic Bilbao,France,LaLiga Santander,4900
+Quaresma,83,5,4,84,76,81,88,18,60,407,1904,RM,H\M,Beşiktaş JK,Portugal,Süper Lig,4500
+Danny,83,4,4,83,73,80,84,33,64,417,1922,CAM,H\L,Zenit,Portugal,Russian League,1300
+Júlio César,83,1,3,83,82,62,84,39,82,432,886,GK,M\M,SL Benfica,Brazil,LIGA NOS,950
+De Rossi,83,2,4,69,64,73,70,81,82,439,2070,CDM,M\H,Roma,Italy,Calcio A,4500
+Mertesacker,83,2,3,27,41,56,48,88,75,335,1538,CB,L\M,Arsenal,Germany,Premier League,1850
+Lichtsteiner,83,2,3,81,59,73,76,79,80,448,2073,RB,H\H,Juventus,Switzerland,Calcio A,4250
+Toulalan,83,2,3,50,50,76,71,79,81,407,1906,CDM,M\H,Bordeaux,France,Ligue 1,750
+Schweinsteiger,83,3,3,51,76,83,75,75,74,434,2117,CM,H\H,Manchester Utd,Germany,Premier League,4900
+Nani,83,5,4,82,79,81,86,24,64,416,1920,LW,H\M,Valencia CF,Portugal,LaLiga Santander,10750
+Sneijder,83,3,5,73,78,85,83,38,59,416,1939,CAM,M\L,Galatasaray SK,Netherlands,Süper Lig,1350
+Enyeama,83,1,3,78,80,77,90,50,78,453,1005,GK,M\M,LOSC Lille,Nigeria,Ligue 1,750
+Rodríguez,83,2,3,68,47,62,66,85,77,405,1832,CB,M\H,Fiorentina,Argentina,Calcio A,750
+Tévez,83,3,3,81,83,77,85,45,80,451,2092,ST,H\H,Boca Juniors,Argentina,Primera División,6700
+Juanfran,83,3,3,84,58,74,77,79,79,451,2023,RB,H\M,Atlético Madrid,Spain,LaLiga Santander,3400
+Borja Valero,83,4,4,72,71,85,85,63,66,442,2063,CAM,M\M,Fiorentina,Spain,Calcio A,2800
+João Moutinho,83,3,4,71,76,83,82,71,71,454,2162,CAM,H\M,AS Monaco,Portugal,Ligue 1,1250
+Consigli,83,1,3,84,84,72,84,48,81,453,780,GK,M\M,Sassuolo,Italy,Calcio A,1350
+Baines,83,3,3,75,75,81,77,80,74,462,2186,LB,H\M,Everton,England,Premier League,5500
+Diarra,83,3,3,77,52,73,80,81,77,440,1983,CDM,M\H,Marseille,France,Ligue 1,2400
+Williams,83,2,4,70,43,56,62,82,82,395,1736,CB,M\H,Everton,Wales,Premier League,6257
+Cahill,83,2,3,67,58,52,61,84,76,398,1795,CB,M\M,Chelsea,England,Premier League,5100
+Diego Alves,83,1,2,88,76,76,87,55,77,459,990,GK,M\M,Valencia CF,Brazil,LaLiga Santander,3300
+José Fonte,83,2,3,54,35,52,62,84,79,366,1646,CB,M\H,Southampton,Portugal,Premier League,2100
+Begovic,83,1,2,83,81,74,84,52,80,454,838,GK,M\M,Chelsea,Bosnia Herzegovina,Premier League,5500
+Vertonghen,83,2,3,67,67,70,68,83,81,436,2016,CB,H\M,Spurs,Belgium,Premier League,6000
+Mertens,83,4,4,89,75,78,87,36,55,420,1953,LW,H\L,Napoli,Belgium,Calcio A,6400
+Gameiro,83,3,3,79,84,75,79,35,67,419,1988,ST,M\M,Atlético Madrid,France,LaLiga Santander,2757
+Bender,83,2,3,68,64,73,73,82,80,440,2006,CDM,H\H,Bayer 04,Germany,Bundesliga,1750
+Benatia,83,2,3,67,44,54,61,83,81,390,1708,CB,M\M,Juventus,Morocco,Calcio A,3100
+Hernández,83,3,3,83,81,66,78,31,64,403,1886,ST,M\L,Bayer 04,Mexico,Bundesliga,12943
+Giroud,83,2,3,64,82,69,72,38,83,408,1903,ST,M\M,Arsenal,France,Premier League,2900
+Khedira,83,2,4,66,76,78,76,81,85,462,2120,CM,H\H,Juventus,Germany,Calcio A,10000
+Perišic,83,4,5,84,79,78,81,42,76,440,2037,LM,H\M,Inter,Croatia,Calcio A,6900
+Mandžukic,83,2,3,70,78,60,73,42,85,408,1873,ST,H\H,Juventus,Croatia,Calcio A,1450
+Muslera,83,1,2,83,78,75,85,60,79,460,972,GK,M\M,Galatasaray SK,Uruguay,Süper Lig,1700
+Bruno,83,3,3,52,72,78,74,78,76,430,2018,CM,M\H,Villarreal CF,Spain,LaLiga Santander,1400
+Brahimi,83,4,3,81,73,77,88,33,56,408,1922,LW,M\M,FC Porto,Algeria,LIGA NOS,1100
+Giovinco,83,4,4,89,79,78,87,26,60,419,1948,CF,H\M,Toronto FC,Italy,MLS,1500
+Luiz Gustavo,83,2,3,67,59,70,71,83,82,432,1964,CDM,M\H,VfL Wolfsburg,Brazil,Bundesliga,2450
+Musacchio,83,2,3,63,51,66,58,84,76,398,1849,CB,M\M,Villarreal CF,Argentina,LaLiga Santander,1400
+Oscar,83,4,3,77,75,79,83,43,46,403,1909,CAM,M\H,Chelsea,Brazil,Premier League,4904
+Trapp,83,1,4,83,79,79,85,45,80,451,792,GK,M\M,PSG,Germany,Ligue 1,1900
+Kagawa,83,4,4,79,68,75,87,34,49,392,1848,CAM,M\M,Bor. Dortmund,Japan,Bundesliga,2300
+Pedro,83,4,5,82,76,77,84,37,62,418,1923,LM,H\M,Chelsea,Spain,Premier League,2900
+Glik,83,2,2,60,24,43,53,85,82,347,1534,CB,L\M,AS Monaco,Poland,Ligue 1,3100
+Mustafi,83,2,3,70,57,63,60,83,79,412,1890,CB,M\H,Arsenal,Germany,Premier League,8640
+ter Stegen,83,1,4,84,81,83,85,38,78,449,853,GK,M\M,FC Barcelona,Germany,LaLiga Santander,2867
+Subašic,83,1,2,82,78,79,83,51,81,454,887,GK,M\M,AS Monaco,Croatia,Ligue 1,850
+Rodríguez,83,3,3,74,67,81,78,80,75,455,2151,LB,H\M,VfL Wolfsburg,Switzerland,Bundesliga,8200
+Medel,83,2,4,76,48,68,73,81,86,432,2002,CDM,L\H,Inter,Chile,Calcio A,3000
+Aurier,83,3,3,85,66,73,77,80,85,466,2097,RB,H\H,PSG,Ivory Coast,Ligue 1,5600
+Perin,83,1,3,80,85,71,90,57,78,461,842,GK,M\M,Genoa,Italy,Calcio A,2350
+Insigne,83,4,3,89,72,79,88,25,51,404,1876,LW,H\M,Napoli,Italy,Calcio A,5819
+Lopes,83,1,2,86,79,76,87,60,77,465,937,GK,M\M,Olympique Lyon,Portugal,Ligue 1,1200
+Nolito,83,4,3,77,79,79,84,39,67,425,1971,LW,H\L,Manchester City,Spain,Premier League,2600
+Konoplyanka,83,4,4,90,79,81,84,33,58,425,1943,LM,M\M,FC Schalke 04,Ukraine,Bundesliga,7767
+Bellarabi,83,4,3,90,77,75,85,33,65,425,1915,RM,H\H,Bayer 04,Germany,Bundesliga,6646
+Carvajal,83,2,3,82,45,72,79,81,78,437,1965,RB,H\M,Real Madrid,Spain,LaLiga Santander,3200
+João Mário,83,3,4,76,73,80,83,70,72,454,2069,RM,M\H,Inter,Portugal,Calcio A,2300
+Giménez,83,2,3,69,45,51,52,84,83,384,1708,CB,M\H,Atlético Madrid,Uruguay,LaLiga Santander,3371
+Slimani,83,2,3,73,79,66,73,47,88,426,1958,ST,H\H,Leicester City,Algeria,Premier League,3097
+Casillas,82,1,2,85,73,58,86,65,80,447,922,GK,M\M,FC Porto,Spain,LIGA NOS,850
+Pirlo,82,2,4,39,64,91,76,48,55,373,1829,CM,L\L,NY City FC,Italy,MLS,1000
+Motta,82,3,4,41,65,77,70,76,82,411,1964,CDM,M\M,PSG,Italy,Ligue 1,800
+Evra,82,3,2,77,51,72,76,83,73,432,2033,LB,M\H,Juventus,France,Calcio A,2500
+Jagielka,82,2,3,67,46,58,55,83,81,390,1808,CB,M\H,Everton,England,Premier League,2350
+Victor Valdés,82,1,3,80,80,77,80,36,84,437,821,GK,M\M,Middlesbrough,Spain,Premier League,2150
+David Villa,82,4,5,73,82,72,82,31,68,408,1943,ST,H\L,NY City FC,Spain,MLS,900
+Kaká,82,4,4,68,77,81,80,30,60,396,1860,CAM,H\M,Orlando City,Brazil,MLS,1050
+Marchetti,82,1,3,82,80,66,86,55,78,447,883,GK,M\M,Lazio,Italy,Calcio A,800
+Zabaleta,82,3,3,68,56,70,74,84,83,435,2031,RB,H\H,Manchester City,Argentina,Premier League,2900
+Raffael,82,4,4,74,79,80,85,41,67,426,1999,CF,H\M,Bor. M'gladbach,Brazil,Bundesliga,1100
+Gabi,82,2,3,63,72,80,76,73,74,438,2068,CM,M\M,Atlético Madrid,Spain,LaLiga Santander,1200
+Gómez,82,2,4,72,83,62,73,28,78,396,1793,ST,H\M,VfL Wolfsburg,Germany,Bundesliga,2200
+Gignac,82,3,3,73,83,71,74,40,80,421,1950,ST,M\M,Tigres,France,LIGA Bancomer MX,1500
+Raúl Albiol,82,2,3,61,41,57,59,84,76,378,1709,CB,L\M,Napoli,Spain,Calcio A,1100
+Costil,82,1,3,82,80,78,84,49,82,455,765,GK,M\M,Stade Rennais,France,Ligue 1,800
+Biglia,82,3,4,71,64,80,74,74,76,439,2063,CDM,M\H,Lazio,Argentina,Calcio A,2100
+Perrin,82,2,3,70,65,69,67,84,80,435,1994,CB,M\M,Saint-Etienne,France,Ligue 1,2450
+Dembélé,82,4,2,77,72,75,83,73,84,464,2090,CM,M\M,Spurs,Belgium,Premier League,18132
+Sagna,82,3,4,75,53,66,74,82,80,430,1989,RB,H\M,Manchester City,France,Premier League,4400
+Nasri,82,4,4,78,76,81,84,38,57,414,1921,LM,H\M,Sevilla FC,France,LaLiga Santander,1700
+Škrtel,82,2,2,62,38,48,52,82,82,364,1632,CB,M\H,Fenerbahçe SK,Slovakia,Süper Lig,800
+Castro,82,3,4,74,72,82,82,73,69,452,2108,CM,M\M,Bor. Dortmund,Germany,Bundesliga,7983
+Viviano,82,1,2,81,84,79,83,30,78,435,757,GK,M\M,Sampdoria,Italy,Calcio A,750
+Sirigu,82,1,2,83,79,75,83,50,80,450,808,GK,M\M,Sevilla FC,Italy,LaLiga Santander,1050
+Jardel,82,2,3,63,44,51,54,84,82,378,1636,CB,M\H,SL Benfica,Brazil,LIGA NOS,1500
+Guardado,82,3,2,82,66,80,83,66,66,443,2074,CM,H\H,PSV,Mexico,Eredivisie,1200
+Piszczek,82,2,3,79,66,73,74,81,80,453,2063,RB,M\M,Bor. Dortmund,Poland,Bundesliga,10131
+Bojan,82,4,4,77,73,78,83,24,48,383,1794,CAM,H\L,Stoke City,Spain,Premier League,1600
+Schneiderlin,82,2,3,66,63,75,75,80,82,441,2028,CDM,M\H,Manchester Utd,France,Premier League,3100
+Witsel,82,4,3,71,74,77,82,73,80,457,2107,CM,M\M,Zenit,Belgium,Russian League,1600
+Bender,82,2,4,66,54,63,63,84,81,411,1860,CB,M\H,Bor. Dortmund,Germany,Bundesliga,2000
+Beñat,82,2,3,60,75,84,75,66,74,434,2048,CM,M\M,Athletic Bilbao,Spain,LaLiga Santander,1300
+Kjær,82,2,3,65,42,63,53,83,80,386,1747,CB,L\H,Fenerbahçe SK,Denmark,Süper Lig,950
+Coleman,82,3,3,79,68,72,78,81,78,456,2036,RB,H\H,Everton,Republic of Ireland,Premier League,3800
+Lallana,82,4,5,73,72,79,83,47,67,421,1952,CAM,H\M,Liverpool,England,Premier League,3691
+Corluka,82,3,3,52,47,67,66,82,82,396,1838,CB,M\M,Lokomotiv,Croatia,Russian League,800
+Rami,82,2,3,59,54,48,58,82,81,382,1719,CB,M\H,Sevilla FC,France,LaLiga Santander,1050
+Sakho,82,2,2,62,33,62,56,81,84,378,1684,CB,M\H,Liverpool,France,Premier League,3200
+Karnezis,82,1,3,80,83,70,84,44,80,441,827,GK,M\M,Udinese,Greece,Calcio A,800
+Arnautovic,82,4,4,78,75,78,82,51,80,444,2009,LM,M\M,Stoke City,Austria,Premier League,1850
+Sigurðsson,82,3,3,68,81,82,78,53,68,430,2025,CAM,H\M,Swansea City,Iceland,Premier League,2500
+Adrien Silva,82,3,4,60,76,82,80,76,67,441,2080,CM,M\H,Sporting CP,Portugal,LIGA NOS,1050
+N'Zonzi,82,3,3,58,64,71,69,79,87,428,1919,CDM,M\M,Sevilla FC,France,LaLiga Santander,1000
+Bonaventura,82,3,3,82,77,81,82,60,73,455,2100,LM,H\M,Milan,Italy,Calcio A,2350
+Wilshere,82,3,2,76,69,81,84,62,73,445,2075,CM,M\M,Bournemouth,England,Premier League,4275
+Parejo,82,3,4,54,77,87,78,59,73,428,2045,CM,M\M,Valencia CF,Spain,LaLiga Santander,1350
+Iborra,82,2,4,54,73,73,69,83,83,435,2012,CDM,M\M,Sevilla FC,Spain,LaLiga Santander,1150
+Ander Herrera,82,4,4,72,72,81,84,64,71,444,2081,CM,H\H,Manchester Utd,Spain,Premier League,6364
+Cuadrado,82,5,3,92,75,73,87,50,68,445,2033,RM,H\M,Juventus,Colombia,Calcio A,13820
+Shaqiri,82,4,4,86,77,78,84,53,72,450,2058,RM,H\M,Stoke City,Switzerland,Premier League,7894
+Lovren,82,2,4,58,40,60,63,82,81,384,1690,CB,H\H,Liverpool,Croatia,Premier League,1800
+Matip,82,2,2,72,46,68,68,84,76,414,1838,CB,M\M,Liverpool,Cameroon,Premier League,6269
+de Vrij,82,2,4,67,41,58,65,84,71,386,1713,CB,M\H,Lazio,Netherlands,Calcio A,1150
+Casemiro,82,2,3,61,68,71,71,80,84,435,2026,CDM,M\M,Real Madrid,Brazil,LaLiga Santander,3900
+Horn,82,1,4,80,80,83,83,45,82,453,844,GK,M\M,1. FC Köln,Germany,Bundesliga,1850
+Danilo Pereira,82,2,3,68,59,66,74,83,87,437,1931,CDM,M\H,FC Porto,Portugal,LIGA NOS,800
+Lucas,82,4,3,93,74,75,86,44,62,434,1996,RW,M\M,PSG,Brazil,Ligue 1,6355
+Koulibaly,82,2,2,74,26,43,56,82,86,367,1562,CB,H\H,Napoli,Senegal,Calcio A,4780
+Morata,82,3,4,83,79,69,79,23,73,406,1817,ST,H\M,Real Madrid,Spain,LaLiga Santander,4702
+Icardi,82,2,4,78,81,57,76,26,66,384,1767,ST,M\L,Inter,Argentina,Calcio A,2650
+Roberto Firmino,82,4,4,79,80,78,84,40,72,433,1999,CF,H\M,Liverpool,Brazil,Premier League,6835
+Sterling,82,4,2,93,71,72,86,46,61,429,1891,LM,H\M,Manchester City,England,Premier League,16485
+Butland,82,1,3,81,83,73,85,51,79,452,880,GK,M\M,Stoke City,England,Premier League,3838
+Florenzi,82,3,3,85,79,78,81,76,76,475,2216,RB,H\M,Roma,Italy,Calcio A,5600
+Karius,82,1,3,84,76,80,85,48,80,453,813,GK,M\M,Liverpool,Germany,Premier League,5182
+Savic,82,2,3,63,35,52,56,83,75,364,1628,CB,M\H,Atlético Madrid,Montenegro,LaLiga Santander,1000
+Umtiti,82,2,3,75,64,70,70,82,78,439,2034,CB,H\H,FC Barcelona,France,LaLiga Santander,8313
+Vázquez,82,3,3,65,77,79,84,43,76,424,1942,CAM,M\H,Sevilla FC,Italy,LaLiga Santander,900
+Marquinhos,82,2,3,73,38,67,69,84,76,407,1814,CB,M\M,PSG,Brazil,Ligue 1,3225
+Carrasco,82,4,4,88,75,76,84,28,64,415,1907,LM,H\M,Atlético Madrid,Belgium,LaLiga Santander,6782
+Vardy,82,3,3,93,80,63,77,54,79,446,2008,ST,H\H,Leicester City,England,Premier League,44770
+Berardi,82,3,3,88,80,75,85,30,72,430,1976,RW,H\M,Sassuolo,Italy,Calcio A,5300
+Martial,82,4,4,91,79,70,87,42,76,445,2003,LM,H\M,Manchester Utd,France,Premier League,28657
+Rulli,82,1,3,85,79,70,86,54,80,454,876,GK,M\M,Real Sociedad,Argentina,LaLiga Santander,1400
+Sportiello,82,1,2,84,80,72,85,48,79,448,854,GK,M\M,Atalanta,Italy,Calcio A,800
+Bailly,82,2,3,81,41,53,59,82,83,399,1767,CB,H\M,Manchester Utd,Ivory Coast,Premier League,20700
+Tiago,81,4,3,55,69,78,74,68,75,419,1979,CM,M\M,Atlético Madrid,Portugal,LaLiga Santander,700
+van Persie,81,4,3,65,83,76,80,33,64,401,1903,ST,M\L,Fenerbahçe SK,Netherlands,Süper Lig,800
+Eto'o,81,4,3,74,82,74,80,36,71,417,1977,ST,M\L,Antalyaspor,Cameroon,Süper Lig,700
+Gerrard,81,3,3,54,81,83,75,68,75,436,2103,CM,M\M,LA Galaxy,England,MLS,1250
+Howard,81,1,3,80,76,77,79,50,78,440,867,GK,M\M,Colorado Rapids,United States,MLS,700
+Carrick,81,2,3,52,66,80,73,76,67,414,1971,CDM,L\M,Manchester Utd,England,Premier League,950
+Drogba,81,3,4,66,82,69,75,36,79,407,1921,ST,M\L,Montreal Impact,Ivory Coast,MLS,750
+Fernando Torres,81,3,4,77,78,71,79,25,70,400,1833,ST,M\M,Atlético Madrid,Spain,LaLiga Santander,1600
+Moyá,81,1,2,85,78,82,79,46,81,451,779,GK,M\M,Atlético Madrid,Spain,LaLiga Santander,950
+Mathieu,81,2,2,71,62,66,52,83,81,415,1921,CB,H\M,FC Barcelona,France,LaLiga Santander,2700
+Rubén Castro,81,3,3,78,80,65,83,23,64,393,1848,ST,M\L,Real Betis,Spain,LaLiga Santander,850
+Carrasso,81,1,3,78,79,81,82,38,79,437,777,GK,M\M,Bordeaux,France,Ligue 1,700
+Adler,81,1,3,80,80,73,81,46,82,442,783,GK,M\M,Hamburger SV,Germany,Bundesliga,1000
+Fernandinho,81,3,4,77,75,76,78,76,78,460,2119,CM,M\H,Manchester City,Brazil,Premier League,10341
+Milner,81,3,4,67,76,83,77,69,76,448,2125,CM,H\H,Liverpool,England,Premier League,5400
+Srna,81,3,3,76,75,85,75,78,76,465,2173,RB,H\H,FC Shakhtar,Croatia,Ukrayina Liha,2300
+Mirante,81,1,2,82,84,64,82,44,78,434,808,GK,M\M,Bologna,Italy,Calcio A,750
+Diego López,81,1,3,78,82,70,78,34,82,424,799,GK,M\M,RCD Espanyol,Spain,LaLiga Santander,700
+Eremenko,81,4,4,76,76,81,79,53,76,441,2026,CAM,M\H,CSKA Moskva,Finland,Russian League,750
+Vermaelen,81,2,3,68,61,67,59,80,75,410,1902,CB,H\M,Roma,Belgium,Calcio A,1300
+Schmeichel,81,1,3,82,78,85,84,62,78,469,873,GK,M\M,Leicester City,Denmark,Premier League,2850
+Walcott,81,3,3,93,77,73,80,38,66,427,1939,LM,M\M,Arsenal,England,Premier League,6290
+Falcao,81,3,4,71,80,64,78,36,72,401,1934,ST,H\M,AS Monaco,Colombia,Ligue 1,1100
+Cabaye,81,3,4,67,76,82,78,74,74,451,2133,CDM,M\M,Crystal Palace,France,Premier League,2000
+Vela,81,4,2,85,77,74,82,25,66,409,1892,RW,H\L,Real Sociedad,Mexico,LaLiga Santander,3000
+Shawcross,81,2,3,54,44,52,50,82,84,366,1643,CB,M\H,Stoke City,England,Premier League,1500
+Lamela,81,4,2,79,78,79,84,43,65,428,2000,RM,M\M,Spurs,Argentina,Premier League,2250
+Raúl García,81,3,3,58,75,82,76,66,76,433,2047,CAM,H\M,Athletic Bilbao,Spain,LaLiga Santander,850
+Mirallas,81,4,4,88,77,77,83,47,65,437,2014,LM,H\M,Everton,Belgium,Premier League,3700
+Astori,81,2,3,68,36,52,60,84,77,377,1643,CB,L\H,Fiorentina,Italy,Calcio A,1150
+Candreva,81,4,4,81,80,80,82,56,73,452,2058,RW,H\M,Inter,Italy,Calcio A,4800
+Reid,81,2,3,73,52,49,50,82,81,387,1714,CB,M\H,West Ham,New Zealand,Premier League,4421
+Fernández,81,3,3,69,70,78,79,68,75,439,2011,CM,M\M,Atlético Madrid,Argentina,LaLiga Santander,1000
+Vieirinha,81,4,4,80,74,77,85,65,66,447,2055,RM,H\M,VfL Wolfsburg,Portugal,Bundesliga,950
+Nacho Monreal,81,2,3,77,53,72,75,81,73,431,1994,LB,H\H,Arsenal,Spain,Premier League,2600
+Trémoulinas,81,2,3,82,64,78,78,77,71,450,2084,LB,H\M,Sevilla FC,France,LaLiga Santander,2900
+Layún,81,3,5,84,72,77,78,74,73,458,2117,LB,H\H,FC Porto,Mexico,LIGA NOS,3300
+Sergio Asenjo,81,1,3,84,82,79,75,59,81,460,921,GK,M\M,Villarreal CF,Spain,LaLiga Santander,750
+Rémy,81,4,3,89,80,68,74,34,72,417,1892,ST,M\M,Crystal Palace,France,Premier League,11739
+Wijnaldum,81,3,2,82,75,74,84,56,70,441,2039,LM,H\M,Liverpool,Netherlands,Premier League,2700
+Yanga-M'Biwa,81,2,3,72,35,56,63,81,79,386,1704,CB,M\M,Olympique Lyon,France,Ligue 1,2000
+Jovetic,81,4,4,78,82,75,84,33,68,420,1938,ST,H\M,Inter,Montenegro,Calcio A,2700
+Parolo,81,3,4,73,77,77,76,76,80,459,2104,CM,H\M,Lazio,Italy,Calcio A,4800
+Benteke,81,3,4,77,79,65,75,32,84,412,1856,ST,M\M,Crystal Palace,Belgium,Premier League,3000
+José Callejón,81,3,2,90,76,70,82,35,63,416,1909,RW,H\H,Napoli,Spain,Calcio A,2400
+Mikel San José,81,2,3,50,63,68,65,80,79,405,1854,CDM,M\M,Athletic Bilbao,Spain,LaLiga Santander,700
+Zieler,81,1,2,78,82,66,82,46,81,435,770,GK,M\M,Leicester City,Germany,Premier League,1550
+Honda,81,4,3,76,73,81,82,48,67,427,2028,RM,M\M,Milan,Japan,Calcio A,850
+Kivrak,81,1,2,82,77,75,86,65,79,464,950,GK,M\M,Trabzonspor,Turkey,Süper Lig,750
+Smolnikov,81,2,3,87,61,75,73,78,74,448,2015,RB,M\M,Zenit,Russia,Russian League,1550
+Ganso,81,4,3,35,76,85,83,45,64,388,1857,CAM,M\L,Sevilla FC,Brazil,LaLiga Santander,950
+Dzagoev,81,3,3,76,74,78,78,72,72,450,2092,CM,H\H,CSKA Moskva,Russia,Russian League,950
+Camacho,81,2,3,61,60,71,69,80,81,422,1971,CDM,M\H,Málaga CF,Spain,LaLiga Santander,700
+McCarthy,81,3,4,72,67,76,76,78,81,450,2034,CDM,M\H,Everton,Republic of Ireland,Premier League,1700
+Walker,81,2,2,90,63,72,73,78,81,457,2085,RB,H\M,Spurs,England,Premier League,17450
+Taison,81,4,3,90,77,75,85,47,63,437,1982,CAM,M\M,FC Shakhtar,Brazil,Ukrayina Liha,1200
+Nkoulou,81,2,3,76,44,67,70,79,75,411,1874,CB,M\M,Olympique Lyon,Cameroon,Ligue 1,3400
+Bürki,81,1,2,81,80,73,84,49,78,445,857,GK,M\M,Bor. Dortmund,Switzerland,Bundesliga,1800
+Daniel Carriço,81,2,3,59,53,68,63,81,79,403,1884,CB,M\M,Sevilla FC,Portugal,LaLiga Santander,800
+Coquelin,81,3,3,70,54,70,76,79,81,430,1951,CDM,M\H,Arsenal,France,Premier League,3000
+Iturraspe,81,2,3,60,62,77,69,79,73,420,1915,CDM,H\M,Athletic Bilbao,Spain,LaLiga Santander,700
+Strootman,81,3,3,68,72,79,76,75,80,450,2062,CM,H\H,Roma,Netherlands,Calcio A,1700
+Bony,81,3,4,72,82,59,74,39,85,411,1890,ST,M\L,Stoke City,Ivory Coast,Premier League,1600
+De Marcos,81,3,3,88,62,73,78,74,79,454,2054,RB,H\M,Athletic Bilbao,Spain,LaLiga Santander,2800
+Clyne,81,3,3,86,61,71,78,79,76,451,2009,RB,H\M,Liverpool,England,Premier League,9648
+El Shaarawy,81,5,4,87,75,70,84,31,59,406,1862,LW,H\M,Roma,Italy,Calcio A,4346
+Blind,81,2,4,61,56,77,76,81,76,427,2011,CB,H\H,Manchester Utd,Netherlands,Premier League,2200
+Orellana,81,4,4,83,73,76,84,32,52,400,1865,RW,H\M,Celta Vigo,Chile,LaLiga Santander,1400
+Iago Aspas,81,3,3,80,80,72,84,29,62,407,1925,ST,H\H,Celta Vigo,Spain,LaLiga Santander,850
+Pereyra,81,4,4,81,66,80,83,67,69,446,2071,CM,H\H,Watford,Argentina,Premier League,6372
+Areola,81,1,3,84,80,72,85,54,76,451,882,GK,M\M,PSG,France,Ligue 1,1300
+Gonalons,81,2,4,67,62,71,70,82,82,434,2002,CDM,M\H,Olympique Lyon,France,Ligue 1,850
+Schürrle,81,3,4,88,81,74,82,36,67,428,1985,LM,M\M,Bor. Dortmund,Germany,Bundesliga,8207
+Víctor Ruíz,81,2,2,60,42,64,60,81,81,388,1783,CB,M\M,Villarreal CF,Spain,LaLiga Santander,750
+Özyakup,81,4,4,75,76,83,82,59,71,446,2090,CM,H\M,Beşiktaş JK,Turkey,Süper Lig,2400
+Pizzi,81,4,4,81,74,80,83,58,66,442,2065,RM,H\M,SL Benfica,Portugal,LIGA NOS,900
+Herrmann,81,3,3,91,75,75,83,31,61,416,1897,RM,M\M,Bor. M'gladbach,Germany,Bundesliga,2500
+Marc Bartra,81,2,3,73,46,62,68,84,69,402,1832,CB,H\M,Bor. Dortmund,Spain,Bundesliga,4133
+Gabbiadini,81,3,3,82,82,72,79,26,72,413,1898,ST,H\L,Napoli,Italy,Calcio A,2000
+Bakambu,81,3,4,88,78,72,80,35,75,428,1927,ST,M\M,Villarreal CF,DR Congo,LaLiga Santander,4590
+Barkley,81,3,5,78,73,76,82,56,75,440,1941,CAM,M\M,Everton,England,Premier League,4000
+Lucas Pérez,81,4,3,76,83,76,80,31,72,418,1952,ST,H\M,Arsenal,Spain,Premier League,3250
+André André,81,3,4,74,75,77,79,71,73,449,2092,CM,H\H,FC Porto,Portugal,LIGA NOS,750
+Acerbi,81,2,3,64,49,57,58,83,77,388,1733,CB,M\M,Sassuolo,Italy,Calcio A,900
+Allan,81,3,3,77,64,76,78,79,80,454,2058,CM,M\H,Napoli,Brazil,Calcio A,3300
+Volland,81,3,3,79,81,78,79,39,82,438,2022,ST,H\H,Bayer 04,Germany,Bundesliga,4300
+Kurzawa,81,3,3,79,69,76,77,79,75,455,2084,LB,H\M,PSG,France,Ligue 1,3000
+Deulofeu,81,4,4,91,69,73,87,26,60,406,1836,RM,H\L,Everton,Spain,Premier League,3200
+Iñigo Martínez,81,2,2,72,56,61,60,82,79,410,1889,CB,M\M,Real Sociedad,Spain,LaLiga Santander,2100
+Batshuayi,81,3,4,83,80,59,79,27,73,401,1811,ST,M\L,Chelsea,Belgium,Premier League,7862
+Jorginho,81,3,3,77,64,80,77,70,68,436,2058,CM,M\M,Napoli,Italy,Calcio A,2000
+Shatov,81,4,4,88,74,77,82,48,68,437,1976,LM,H\M,Zenit,Russia,Russian League,1400
+Promes,81,4,4,89,81,74,83,28,67,422,1940,RM,H\L,Spartak Moskva,Netherlands,Russian League,5000
+Salah,81,4,4,91,72,70,86,45,65,429,1931,RW,H\M,Roma,Egypt,Calcio A,3141
+Bruno Peres,81,3,3,92,67,71,81,74,75,460,2085,RWB,H\M,Roma,Brazil,Calcio A,5700
+Süle,81,2,3,58,39,49,44,83,80,353,1517,CB,M\M,1899 Hoffenheim,Germany,Bundesliga,1400
+Coman,81,4,3,93,76,74,84,19,58,404,1853,LW,M\L,FC Bayern,France,Bundesliga,11866
+Maksimovic,81,2,3,66,28,47,55,83,79,358,1560,CB,M\H,Napoli,Serbia,Calcio A,900
+Kanté,81,3,3,80,66,74,77,80,83,460,2074,CM,M\H,Chelsea,France,Premier League,19050
+Fekir,81,4,3,83,77,76,87,31,75,429,1970,RW,H\L,Olympique Lyon,France,Ligue 1,4500
+Marco Asensio,81,4,3,72,70,83,82,39,61,407,1889,CAM,M\M,Real Madrid,Spain,LaLiga Santander,2200
+Debuchy,80,3,3,74,65,73,73,79,77,441,2048,RB,H\M,Arsenal,France,Premier League,2400
+Fabianski,80,1,2,77,84,73,84,50,78,446,813,GK,M\M,Swansea City,Poland,Premier League,800
+Valencia,80,3,1,84,65,73,79,76,83,460,2094,RB,H\M,Manchester Utd,Ecuador,Premier League,8967
+Rose,80,3,3,82,63,71,77,78,77,448,2015,LB,H\M,Spurs,England,Premier League,4200
+Hutchinson,80,3,4,72,65,74,75,77,79,442,2017,CDM,H\H,Beşiktaş JK,Canada,Süper Lig,900
+Huth,80,2,3,44,54,49,40,81,86,354,1630,CB,M\H,Leicester City,Germany,Premier League,850
+Ochoa,80,1,3,79,69,77,87,87,79,478,875,GK,M\M,Granada CF,Mexico,LaLiga Santander,700
+Gómez,80,4,4,89,71,75,86,31,58,410,1895,LW,H\M,Atalanta,Argentina,Calcio A,1300
+Sosa,80,3,4,77,74,82,80,59,71,443,2059,CAM,H\H,Milan,Argentina,Calcio A,2200
+Jesús Navas,80,3,3,88,70,75,83,28,50,394,1826,RM,M\M,Manchester City,Spain,Premier League,1700
+Podolski,80,3,2,82,86,75,77,39,71,430,1990,RM,M\L,Galatasaray SK,Germany,Süper Lig,1700
+Clichy,80,2,4,83,43,65,73,79,68,411,1874,LB,M\M,Manchester City,France,Premier League,3675
+Bradley,80,2,3,69,69,78,79,72,83,450,2093,CDM,M\H,Toronto FC,United States,MLS,700
+Herrera,80,3,4,76,72,72,74,75,80,449,2042,CM,H\H,FC Porto,Mexico,LIGA NOS,900
+Manuel Fernandes,80,4,4,79,75,80,82,67,70,453,2088,CAM,M\M,Lokomotiv,Portugal,Russian League,750
+Dante,80,2,4,54,53,67,64,80,75,393,1817,CB,M\M,OGC Nice,Brazil,Ligue 1,1100
+Sahin,80,3,3,54,67,82,80,72,69,424,2024,CDM,M\M,Bor. Dortmund,Turkey,Bundesliga,800
+Fábio Coentrão,80,3,2,76,66,73,79,78,72,444,2043,LB,M\M,Real Madrid,Portugal,LaLiga Santander,1400
+Wass,80,3,3,76,72,80,79,66,71,444,2050,CM,M\M,Celta Vigo,Denmark,LaLiga Santander,1700
+Ayew,80,3,3,78,74,76,81,63,79,451,2096,RM,H\M,West Ham,Ghana,Premier League,1000
+Adán,80,1,2,77,85,78,78,55,80,453,870,GK,M\M,Real Betis,Spain,LaLiga Santander,700
+Eder,80,3,4,85,80,73,83,25,64,410,1896,ST,H\M,Inter,Italy,Calcio A,2300
+Ivanovic,80,2,3,65,61,64,61,86,84,421,1934,RB,H\M,Chelsea,Serbia,Premier League,1300
+Alexandre Pato,80,4,3,86,78,68,80,27,68,407,1867,ST,H\L,Villarreal CF,Brazil,LaLiga Santander,3429
+Hernanes,80,4,5,64,71,84,83,55,66,423,2006,CM,M\M,Juventus,Brazil,Calcio A,2200
+Chedjou,80,3,3,73,60,69,68,77,83,430,1947,CB,M\M,Galatasaray SK,Cameroon,Süper Lig,1900
+Fejsa,80,2,3,52,59,65,68,80,84,408,1877,CDM,L\H,SL Benfica,Serbia,LIGA NOS,700
+Sissoko,80,3,2,81,74,75,78,72,85,465,2116,RM,H\M,Spurs,France,Premier League,4300
+Kruse,80,3,4,74,79,79,81,38,71,422,1965,CF,H\M,Werder Bremen,Germany,Bundesliga,800
+Roberto,80,1,2,81,73,74,83,45,79,435,906,GK,M\M,RCD Espanyol,Spain,LaLiga Santander,700
+Henderson,80,3,3,74,70,81,75,71,80,451,2100,CM,H\H,Liverpool,England,Premier League,5067
+Ogbonna,80,2,3,72,40,58,59,83,77,389,1713,CB,M\H,West Ham,Italy,Premier League,4275
+Perotti,80,4,5,82,69,78,85,32,60,406,1856,CF,M\H,Roma,Argentina,Calcio A,800
+Traoré,80,4,2,88,70,74,85,36,48,401,1871,RM,H\M,Bor. M'gladbach,Guinea,Bundesliga,1400
+Feghouli,80,4,3,88,73,72,84,32,62,411,1868,RW,H\M,West Ham,Algeria,Premier League,3500
+Giuliano,80,5,3,81,76,76,83,45,69,430,1958,CAM,M\M,Zenit,Brazil,Russian League,950
+Gibbs,80,3,2,81,57,72,77,80,72,439,1987,LB,H\M,Arsenal,England,Premier League,3000
+Drinkwater,80,3,4,68,67,76,75,73,74,433,1998,CM,M\M,Leicester City,England,Premier League,2300
+Welbeck,80,3,3,86,75,71,80,34,79,425,1924,ST,H\H,Arsenal,England,Premier League,5121
+Asamoah,80,4,3,80,73,77,82,71,76,459,2117,CM,H\H,Juventus,Ghana,Calcio A,6310
+Noboa,80,2,3,73,72,81,78,75,76,455,2124,CM,H\H,FC Rostov,Ecuador,Russian League,1000
+Marlos,80,5,3,83,75,73,86,48,64,429,1966,CAM,M\M,FC Shakhtar,Brazil,Ukrayina Liha,800
+Schmelzer,80,2,2,77,51,69,69,79,79,424,1944,LB,H\H,Bor. Dortmund,Germany,Bundesliga,2600
+Saponara,80,4,4,76,68,80,82,31,67,404,1856,CAM,H\M,Empoli,Italy,Calcio A,1300
+Murillo,80,2,2,77,40,56,62,82,78,395,1775,CB,M\H,Inter,Colombia,Calcio A,2100
+Rafinha,80,4,4,75,72,77,85,62,63,434,1991,CM,M\M,FC Barcelona,Brazil,LaLiga Santander,2775
+Ntep,80,4,4,91,75,74,83,26,73,422,1883,LM,H\M,Stade Rennais,France,Ligue 1,4000
+Jesé,80,4,4,86,75,72,84,24,58,399,1788,LW,M\L,PSG,Spain,Ligue 1,2533
+Depay,80,4,2,90,77,72,84,30,76,429,1951,LM,H\L,Manchester Utd,Netherlands,Premier League,9168
+Zaza,80,3,3,80,80,59,77,38,77,411,1892,ST,H\M,West Ham,Italy,Premier League,1700
+Carrillo,80,5,4,91,76,74,82,32,68,423,1924,RM,H\M,SL Benfica,Peru,LIGA NOS,1000
+Zouma,80,2,3,73,50,58,55,80,81,397,1818,CB,M\M,Chelsea,France,Premier League,7328
+Nastasic,80,2,3,70,31,55,51,82,75,364,1639,CB,L\H,FC Schalke 04,Serbia,Bundesliga,1400
+Shaw,80,2,2,82,51,70,78,79,79,439,1988,LB,H\M,Manchester Utd,England,Premier League,5888
+Sergio Rico,80,1,3,80,80,77,82,50,80,449,833,GK,M\M,Sevilla FC,Spain,LaLiga Santander,800
+Çalhanoglu,80,4,5,74,80,80,78,41,57,410,1953,CAM,M\M,Bayer 04,Turkey,Bundesliga,2975
+Can,80,3,4,76,66,78,78,78,82,458,2082,CM,M\M,Liverpool,Germany,Premier League,6520
+Kostic,80,4,2,90,71,75,81,39,72,428,1913,LM,H\M,Hamburger SV,Serbia,Bundesliga,4600
+Ziyech,80,3,2,73,77,82,77,46,65,420,1959,CAM,H\L,Ajax,Morocco,Eredivisie,1200
+Samu Castillejo,80,4,2,87,64,77,82,37,51,398,1823,LM,M\H,Villarreal CF,Spain,LaLiga Santander,2800
+Alli,80,3,3,75,74,74,78,61,77,439,1970,CAM,H\M,Spurs,England,Premier League,3898
+Ben Yedder,80,4,5,83,78,76,84,34,63,418,1968,ST,H\H,Sevilla FC,France,LaLiga Santander,2802
+Hernández,80,4,3,72,71,75,78,64,79,439,2013,CM,H\L,Celta Vigo,Chile,LaLiga Santander,900
+Rode,80,3,3,75,62,72,74,79,79,441,2017,CDM,H\H,Bor. Dortmund,Germany,Bundesliga,2400
+Ilicic,80,4,2,72,81,80,81,37,65,416,1906,CF,M\M,Fiorentina,Slovenia,Calcio A,700
+Boufal,80,5,4,85,73,72,87,36,49,402,1813,LW,H\L,Southampton,Morocco,Premier League,3498
+Gayà,80,2,3,88,58,77,77,75,68,443,2025,LB,H\M,Valencia CF,Spain,LaLiga Santander,3120
+Meyer,80,4,4,75,64,78,85,35,54,391,1818,CAM,H\M,FC Schalke 04,Germany,Bundesliga,1100
+Williams,80,4,3,92,75,73,79,34,79,432,1882,RW,H\H,Athletic Bilbao,Spain,LaLiga Santander,9095
+Rafa,80,4,4,92,67,73,84,36,45,397,1839,LM,H\M,SL Benfica,Portugal,LIGA NOS,750
+Lemos,80,2,3,71,34,55,71,81,73,385,1710,CB,H\M,UD Las Palmas,Uruguay,LaLiga Santander,1100
+Keane,80,3,4,68,82,75,82,31,68,406,1911,ST,H\L,LA Galaxy,Republic of Ireland,MLS,700
+Totti,80,3,5,38,84,87,81,21,66,377,1813,CF,M\M,Roma,Italy,Calcio A,750
+Sorrentino,80,1,3,80,82,65,80,33,83,423,772,GK,M\M,Chievo Verona,Italy,Calcio A,700
+Defoe,80,3,4,77,83,61,79,25,66,391,1822,ST,M\L,Sunderland,England,Premier League,750
+Inan,80,3,4,61,76,82,77,71,71,438,2088,CM,M\H,Galatasaray SK,Turkey,Süper Lig,950
+Topal,80,2,5,67,66,66,69,82,83,433,1991,CDM,M\H,Fenerbahçe SK,Turkey,Süper Lig,850
+Kolodziejczak,80,2,2,71,34,64,65,79,84,397,1781,CB,H\M,Sevilla FC,France,LaLiga Santander,1500
+Hitz,80,1,3,82,76,73,82,41,80,434,804,GK,M\M,FC Augsburg,Switzerland,Bundesliga,750
+Mangala,80,2,4,73,41,56,61,78,84,393,1784,CB,M\H,Valencia CF,France,LaLiga Santander,2525
+Immobile,80,3,3,80,81,60,75,38,72,406,1863,ST,H\M,Lazio,Italy,Calcio A,1200
+Mario Gaspar,80,2,3,79,71,70,73,80,80,453,2036,RB,H\M,Villarreal CF,Spain,LaLiga Santander,850
+Corona,80,4,5,82,71,72,88,47,51,411,1928,RW,H\M,FC Porto,Mexico,LIGA NOS,750
+Cabella,80,4,4,83,73,76,83,42,55,412,1909,CAM,M\M,Marseille,France,Ligue 1,1500
+Baumann,80,1,3,82,79,54,84,47,76,422,797,GK,M\M,1899 Hoffenheim,Germany,Bundesliga,700
+Didavi,80,3,3,78,82,75,79,52,72,438,2018,CAM,M\M,VfL Wolfsburg,Germany,Bundesliga,2200
+Neto,80,1,2,84,80,74,83,53,74,448,880,GK,M\M,Juventus,Brazil,Calcio A,750
+Adrián,80,1,2,80,78,71,86,46,75,436,874,GK,M\M,West Ham,Spain,Premier League,1000
+Bruma,80,2,3,66,53,63,59,79,82,402,1804,CB,M\M,VfL Wolfsburg,Netherlands,Bundesliga,850
+Kampl,80,4,4,82,68,76,85,56,62,429,1968,CM,H\H,Bayer 04,Slovenia,Bundesliga,1300
+Rakitskyi,80,2,3,72,64,75,72,81,78,442,2045,CB,H\M,FC Shakhtar,Ukraine,Ukrayina Liha,700
+Abdennour,80,2,3,61,57,60,58,80,83,399,1814,CB,H\H,Valencia CF,Tunisia,LaLiga Santander,700
+Guilavogui,80,2,3,70,59,66,68,82,81,426,1917,CDM,M\H,VfL Wolfsburg,France,Bundesliga,850
+Danilo,80,3,4,80,70,72,75,78,79,454,2094,RB,H\M,Real Madrid,Brazil,LaLiga Santander,1900

@@ -1,0 +1,360 @@
+Name,Rating,SkillsMoves,WeakFoot,Pace,Shooting,Passing,Dribbling,Defending,Phyiscality,BaseStats,InGameStats,Position,WorkRate,Club,Country,League,Price
+Messi,94,4,4,92,88,86,95,24,62,447,2083,RW,M\L,FC Barcelona,Argentina,Liga BBVA,1403500
+Cristiano Ronaldo,93,5,4,92,93,80,90,33,78,466,2154,LW,H\L,Real Madrid,Portugal,Liga BBVA,1753000
+Robben,90,4,2,92,86,82,92,32,64,448,2068,RM,H\L,FC Bayern,Netherlands,Bundesliga,401500
+Neuer,90,1,4,85,87,91,86,58,90,497,974,GK,M\M,FC Bayern,Germany,Bundesliga,214500
+Suárez,90,4,4,82,88,79,88,42,79,458,2125,ST,H\M,FC Barcelona,Uruguay,Liga BBVA,442500
+Ibrahimovic,89,4,4,73,90,81,85,31,86,446,2057,ST,M\L,PSG,Sweden,Ligue 1,413300
+Hazard,89,4,4,90,82,84,92,32,64,444,2044,LM,H\M,Chelsea,Belgium,Barclays PL,370000
+Iniesta,88,4,4,75,72,87,90,59,63,446,2072,CM,H\M,FC Barcelona,Spain,Liga BBVA,74500
+Thiago Silva,88,3,3,74,57,73,73,90,79,446,2099,CB,H\H,PSG,Brazil,Ligue 1,89000
+David Silva,88,4,2,73,74,89,89,32,58,415,1985,CAM,H\L,Manchester City,Spain,Barclays PL,86000
+Neymar,88,5,5,90,80,72,92,30,58,422,1977,LW,H\M,FC Barcelona,Brazil,Liga BBVA,479000
+Lahm,87,3,3,75,56,84,85,87,66,453,2135,CDM,M\H,FC Bayern,Germany,Bundesliga,54500
+Chiellini,87,2,2,77,47,56,58,90,84,412,1867,CB,L\H,Juventus,Italy,Serie A TIM,72500
+Agüero,87,4,4,89,87,77,89,23,68,433,1996,ST,H\M,Manchester City,Argentina,Barclays PL,412500
+Sergio Ramos,87,3,3,79,60,71,66,87,81,444,2070,CB,H\M,Real Madrid,Spain,Liga BBVA,141000
+Ribéry,87,5,4,87,77,84,91,25,61,425,1961,LM,H\M,FC Bayern,France,Bundesliga,202500
+Cesc Fàbregas,87,3,3,68,78,90,81,64,65,446,2110,CM,H\M,Chelsea,Spain,Barclays PL,63250
+Bale,87,4,3,94,83,83,84,63,80,487,2206,RM,H\M,Real Madrid,Wales,Liga BBVA,522500
+Özil,87,4,2,72,74,85,86,24,57,398,1880,CAM,M\L,Arsenal,Germany,Barclays PL,50500
+Modric,87,4,4,76,74,84,89,71,68,462,2175,CM,H\M,Real Madrid,Croatia,Liga BBVA,94500
+Kroos,87,3,5,56,81,88,82,66,69,442,2081,CM,M\M,Real Madrid,Germany,Liga BBVA,48125
+Boateng,87,2,4,79,50,69,68,87,84,437,1940,CB,M\M,FC Bayern,Germany,Bundesliga,95000
+Lewandowski,87,3,4,80,85,74,84,38,80,441,2034,ST,M\M,FC Bayern,Poland,Bundesliga,199500
+Rodríguez,87,4,3,78,86,84,85,40,72,445,2072,CAM,M\M,Real Madrid,Colombia,Liga BBVA,100000
+Rooney,86,3,4,75,86,81,81,47,87,457,2164,ST,M\H,Manchester Utd,England,Barclays PL,95500
+Schweinsteiger,86,3,3,52,79,84,79,76,78,448,2178,CM,H\H,Manchester Utd,Germany,Barclays PL,45250
+Tévez,86,3,3,87,88,76,88,45,84,468,2172,ST,H\H,Boca Juniors,Argentina,Primera División,69300
+Benzema,86,4,4,83,84,75,81,22,74,419,1915,ST,M\L,Real Madrid,France,Liga BBVA,84250
+Hummels,86,2,3,64,58,74,70,88,77,431,1994,CB,H\M,Bor. Dortmund,Germany,Bundesliga,46375
+Diego Costa,86,3,4,82,83,63,79,40,88,435,1932,ST,H\M,Chelsea,Spain,Barclays PL,102500
+Vidal,86,3,4,77,79,80,81,83,83,483,2263,CM,H\H,FC Bayern,Chile,Bundesliga,88500
+Sánchez,86,4,3,87,83,78,88,39,73,448,2068,LW,H\H,Arsenal,Chile,Barclays PL,196000
+Reus,86,4,4,90,84,85,86,39,64,448,2097,LM,M\M,Bor. Dortmund,Germany,Bundesliga,245500
+Sergio Busquets,86,3,3,53,59,77,74,83,80,426,1980,CDM,M\M,FC Barcelona,Spain,Liga BBVA,16750
+Müller,86,3,4,77,84,80,79,46,72,438,2078,CF,H\H,FC Bayern,Germany,Bundesliga,56750
+Courtois,86,1,3,84,87,69,88,46,86,460,863,GK,M\M,Chelsea,Belgium,Barclays PL,68250
+De Gea,86,1,3,88,81,86,89,51,83,478,879,GK,M\M,Manchester Utd,Spain,Barclays PL,125500
+Pogba,86,4,4,77,80,82,86,74,88,487,2255,CM,H\M,Juventus,France,Serie A TIM,226500
+De Bruyne,86,4,5,77,83,86,84,40,75,445,2114,CAM,H\M,Manchester City,Belgium,Barclays PL,148500
+Terry,85,2,4,34,47,57,52,87,81,358,1695,CB,M\H,Chelsea,England,Barclays PL,11875
+Touré,85,3,4,76,83,81,79,70,86,475,2167,CM,M\L,Manchester City,Ivory Coast,Barclays PL,122455
+Cech,85,1,3,83,84,73,84,45,83,452,793,GK,M\M,Arsenal,Czech Republic,Barclays PL,33875
+Kompany,85,2,3,69,54,62,65,86,81,417,1886,CB,M\M,Manchester City,Belgium,Barclays PL,60000
+Santi Cazorla,85,4,5,73,78,85,87,56,64,443,2091,CAM,M\M,Arsenal,Spain,Barclays PL,42250
+Piqué,85,2,3,64,54,67,60,86,76,407,1844,CB,H\M,FC Barcelona,Spain,Liga BBVA,21875
+Naldo,85,2,4,73,69,64,63,88,76,433,1953,CB,H\M,VfL Wolfsburg,Brazil,Bundesliga,38125
+Cavani,85,3,3,76,83,71,81,42,80,433,2029,ST,H\H,PSG,Uruguay,Ligue 1,24250
+Godín,85,2,3,70,48,63,62,87,78,408,1876,CB,M\H,Atlético Madrid,Uruguay,Liga BBVA,18250
+Di María,85,4,2,88,79,83,86,49,70,455,2105,CAM,H\M,PSG,Argentina,Ligue 1,122500
+Alaba,85,3,4,86,72,81,83,84,72,478,2237,LB,H\M,FC Bayern,Austria,Bundesliga,117000
+Buffon,84,1,2,85,79,71,83,49,89,456,944,GK,M\M,Juventus,Italy,Serie A TIM,19000
+Casillas,84,1,2,87,79,67,88,65,79,465,926,GK,M\M,FC Porto,Spain,LIGA NOS,8300
+Pirlo,84,2,4,41,71,93,81,54,58,398,1943,CM,L\L,NY City FC,Italy,MLS,4800
+van Persie,84,4,3,67,86,81,81,33,67,415,1964,ST,M\L,Fenerbahçe SK,Netherlands,Süper Lig,8400
+Gerrard,84,3,3,54,82,86,75,69,80,446,2139,CM,M\M,LA Galaxy,England,MLS,4700
+Xabi Alonso,84,2,4,33,69,88,77,76,70,413,2038,CDM,L\M,FC Bayern,Spain,Bundesliga,10625
+Pepe,84,2,3,73,50,58,59,86,83,409,1816,CB,M\H,Real Madrid,Portugal,Liga BBVA,21125
+Barzagli,84,2,3,75,36,55,59,88,77,390,1751,CB,L\H,Juventus,Italy,Serie A TIM,19875
+Sneijder,84,3,5,75,80,86,84,45,62,432,2034,CAM,M\L,Galatasaray SK,Netherlands,Süper Lig,10450
+Dani Alves,84,3,3,86,70,76,83,78,69,462,2158,RB,H\L,FC Barcelona,Brazil,Liga BBVA,34375
+Higuaín,84,3,4,80,84,68,81,22,71,406,1845,ST,H\M,Napoli,Argentina,Serie A TIM,29500
+Lloris,84,1,1,86,82,68,88,65,81,470,847,GK,M\M,Spurs,France,Barclays PL,50750
+Miranda,84,2,3,76,49,56,57,86,80,404,1816,CB,M\M,Inter,Brazil,Serie A TIM,22125
+Rakitic,84,3,3,68,82,86,82,56,67,441,2063,CM,M\M,FC Barcelona,Croatia,Liga BBVA,24875
+Matuidi,84,2,3,75,67,77,75,83,81,458,2113,CDM,H\H,PSG,France,Ligue 1,30750
+Marchisio,84,4,4,81,74,82,83,77,78,475,2221,CM,H\H,Juventus,Italy,Serie A TIM,38500
+Benatia,84,2,3,65,44,54,61,86,83,393,1715,CB,M\M,FC Bayern,Morocco,Bundesliga,17500
+Javi Martinez,84,2,3,52,61,71,65,84,79,412,1922,CB,M\M,FC Bayern,Spain,Bundesliga,10125
+Juan Mata,84,4,3,71,75,84,87,27,55,399,1933,RM,M\M,Manchester Utd,Spain,Barclays PL,18750
+Pjanic,84,3,4,72,75,85,84,63,66,445,2104,CM,M\M,Roma,Bosnia Herzegovina,Serie A TIM,12750
+Oscar,84,4,3,79,75,81,84,43,46,408,1922,CAM,M\H,Chelsea,Brazil,Barclays PL,29125
+Coutinho,84,4,4,82,74,81,87,33,56,413,1918,CAM,H\M,Liverpool,Brazil,Barclays PL,49250
+Jordi Alba,84,3,3,92,69,74,81,80,76,472,2143,LB,H\M,FC Barcelona,Spain,Liga BBVA,34000
+Hulk,84,4,3,85,87,81,82,43,86,464,2096,RW,H\M,Zenit,Brazil,Russian League,69500
+Pastore,84,4,4,74,77,84,86,58,68,447,2051,CM,H\M,PSG,Argentina,Ligue 1,25625
+Matic,84,3,3,67,70,77,75,82,88,459,2096,CDM,M\H,Chelsea,Serbia,Barclays PL,33250
+Götze,84,4,4,72,73,81,89,32,62,409,1922,CAM,M\M,FC Bayern,Germany,Bundesliga,44250
+Otamendi,84,2,3,75,56,56,54,86,82,409,1879,CB,M\M,Manchester City,Argentina,Barclays PL,59000
+Leno,84,1,4,84,84,81,85,46,83,463,865,GK,M\M,Bayer 04,Germany,Bundesliga,21500
+Lacazette,84,4,4,88,85,74,85,34,73,439,2033,ST,H\M,Olympique Lyon,France,Ligue 1,85000
+Martínez,84,4,4,81,82,67,79,44,85,438,1990,ST,H\M,Atlético Madrid,Colombia,Liga BBVA,44375
+Isco,84,4,3,75,75,80,87,32,63,412,1921,CAM,H\M,Real Madrid,Spain,Liga BBVA,34000
+Verratti,84,4,4,68,58,83,87,78,69,443,2083,CM,H\H,PSG,Italy,Ligue 1,19125
+De Rossi,83,2,4,68,66,74,72,82,84,446,2101,CDM,M\H,Roma,Italy,Serie A TIM,6850
+Mertesacker,83,2,3,31,41,57,48,88,75,340,1554,CB,M\M,Arsenal,Germany,Barclays PL,3900
+Mathieu,83,2,2,76,64,66,55,84,82,427,1977,CB,H\M,FC Barcelona,France,Liga BBVA,16625
+Vidic,83,2,3,52,33,48,50,85,80,348,1589,CB,L\H,Inter,Serbia,Serie A TIM,2950
+Mascherano,83,2,3,68,59,70,69,85,80,431,2009,CB,M\H,FC Barcelona,Argentina,Liga BBVA,10150
+Turan,83,4,4,75,74,82,87,63,73,454,2126,RM,H\H,FC Barcelona,Turkey,Liga BBVA,11125
+Hart,83,1,3,85,78,76,86,59,80,464,917,GK,M\M,Manchester City,England,Barclays PL,30875
+João Moutinho,83,3,4,71,76,83,82,71,71,454,2166,CAM,M\M,AS Monaco,Portugal,Ligue 1,3000
+Handanovic,83,1,2,87,79,65,86,54,86,457,855,GK,M\M,Inter,Slovenia,Serie A TIM,20500
+Baines,83,3,3,75,75,81,77,82,74,464,2192,LB,H\M,Everton,England,Barclays PL,11250
+Mandanda,83,1,3,85,78,79,84,53,81,460,758,GK,M\M,Marseille,France,Ligue 1,4100
+Cahill,83,2,3,73,58,52,62,86,76,407,1823,CB,M\M,Chelsea,England,Barclays PL,25125
+Koscielny,83,2,3,78,40,62,65,84,75,404,1806,CB,M\H,Arsenal,France,Barclays PL,36875
+Nasri,83,4,4,81,76,83,86,38,58,422,1947,LM,H\M,Manchester City,France,Barclays PL,16875
+Diego Alves,83,1,2,88,76,76,88,55,77,460,1066,GK,M\M,Valencia CF,Brazil,Liga BBVA,4650
+Falcao,83,4,4,72,82,64,79,37,73,407,1958,ST,H\M,Chelsea,Colombia,Barclays PL,17125
+Ruffier,83,1,3,83,81,77,86,55,83,465,866,GK,M\M,Saint-Etienne,France,Ligue 1,2400
+Garay,83,2,3,52,57,68,64,87,78,406,1887,CB,M\M,Zenit,Argentina,Russian League,3200
+Sturridge,83,3,2,89,83,69,81,25,70,417,1880,ST,M\L,Liverpool,England,Barclays PL,96750
+Hamšik,83,3,4,74,77,81,82,58,70,442,2052,CAM,H\M,Napoli,Slovakia,Serie A TIM,3350
+Sokratis,83,2,3,75,53,57,60,86,83,414,1864,CB,M\M,Bor. Dortmund,Greece,Bundesliga,22625
+Candreva,83,3,4,86,81,82,85,45,74,453,2086,RW,H\M,Lazio,Italy,Serie A TIM,18625
+Bravo,83,1,3,83,82,84,86,58,78,471,988,GK,M\M,FC Barcelona,Chile,Liga BBVA,4450
+Marcelo,83,3,4,81,67,77,84,81,79,469,2143,LB,H\M,Real Madrid,Brazil,Liga BBVA,25625
+Nainggolan,83,3,3,80,78,79,81,80,84,482,2222,CM,H\H,Roma,Belgium,Serie A TIM,36250
+Höwedes,83,2,3,65,47,63,65,84,78,402,1830,CB,M\M,FC Schalke 04,Germany,Bundesliga,8000
+Khedira,83,2,4,62,70,73,70,83,86,444,2043,CDM,M\H,Juventus,Germany,Serie A TIM,9250
+David Luiz,83,3,3,73,64,73,73,82,77,442,2063,CB,H\M,PSG,Brazil,Ligue 1,30250
+Mandžukic,83,3,3,77,82,62,76,38,86,421,1924,ST,H\H,Juventus,Croatia,Serie A TIM,7950
+Gaitán,83,4,2,83,74,83,86,40,57,423,2001,LM,M\M,SL Benfica,Argentina,LIGA NOS,3450
+Bonucci,83,2,3,70,50,66,67,85,81,419,1936,CB,M\H,Juventus,Italy,Serie A TIM,16000
+Luiz Gustavo,83,2,3,70,60,70,71,84,82,437,1978,CDM,M\H,VfL Wolfsburg,Brazil,Bundesliga,17500
+Pedro,83,4,5,82,76,77,84,37,62,418,1929,LW,H\M,Chelsea,Spain,Barclays PL,26500
+Thiago,83,4,3,72,75,81,89,57,64,438,2085,CM,M\M,FC Bayern,Spain,Bundesliga,28750
+Eriksen,83,4,5,77,75,84,83,44,59,422,1958,CAM,H\M,Spurs,Denmark,Barclays PL,23125
+Rodriguez,83,3,3,75,67,82,78,84,76,462,2175,LB,H\M,VfL Wolfsburg,Switzerland,Bundesliga,17750
+Koke,83,3,4,74,72,85,81,53,73,438,2026,CAM,H\H,Atlético Madrid,Spain,Liga BBVA,9975
+Griezmann,83,4,3,85,81,77,84,29,68,424,1971,ST,H\M,Atlético Madrid,France,Liga BBVA,48125
+Bellarabi,83,4,3,90,76,76,86,33,64,425,1909,RM,H\L,Bayer 04,Germany,Bundesliga,26125
+Laporte,83,2,2,73,37,59,60,86,78,393,1774,CB,M\M,Athletic Bilbao,France,Liga BBVA,14875
+Júlio César,82,1,3,84,78,67,85,39,82,435,941,GK,M\M,SL Benfica,Brazil,LIGA NOS,1000
+Aduriz,82,3,3,71,83,63,72,47,81,417,1937,ST,M\M,Athletic Bilbao,Spain,Liga BBVA,1500
+Victor Valdés,82,1,3,82,78,77,83,60,85,465,847,GK,M\M,Manchester Utd,Spain,Barclays PL,8450
+Lichtsteiner,82,2,3,83,60,72,75,80,79,449,2081,RB,H\H,Juventus,Switzerland,Serie A TIM,4000
+Nani,82,5,4,84,79,82,86,24,65,420,1929,LM,M\M,Fenerbahçe SK,Portugal,Süper Lig,19250
+Zabaleta,82,3,3,73,56,70,75,85,83,442,2049,RB,H\H,Manchester City,Argentina,Barclays PL,4950
+Diego López,82,1,3,81,77,77,83,34,87,439,822,GK,M\M,Milan,Spain,Serie A TIM,2350
+Luisão,82,2,2,39,53,59,57,85,76,369,1689,CB,L\M,SL Benfica,Brazil,LIGA NOS,850
+Huntelaar,82,3,4,66,84,64,71,32,72,389,1848,ST,M\M,FC Schalke 04,Netherlands,Bundesliga,1600
+Eremenko,82,4,4,77,77,83,80,54,73,444,2044,CAM,H\H,CSKA Moskva,Finland,Russian League,1100
+Perrin,82,2,3,72,65,69,67,85,80,438,2008,CB,M\M,Saint-Etienne,France,Ligue 1,8300
+Borja Valero,82,3,4,71,72,85,81,65,67,441,2071,CM,M\M,Fiorentina,Spain,Serie A TIM,2450
+Filipe Luís,82,3,3,82,62,76,76,81,77,454,2066,LB,H\M,Atlético Madrid,Brazil,Liga BBVA,7350
+Sirigu,82,1,2,84,79,75,84,50,80,452,846,GK,M\M,PSG,Italy,Ligue 1,1200
+Vela,82,4,2,86,79,75,84,25,65,414,1903,RW,H\L,Real Sociedad,Mexico,Liga BBVA,15000
+Leandro Castán,82,2,2,72,33,47,57,85,80,374,1638,CB,M\H,Roma,Brazil,Serie A TIM,9050
+Begovic,82,1,2,83,80,74,84,52,80,453,829,GK,M\M,Chelsea,Bosnia Herzegovina,Barclays PL,11500
+Vertonghen,82,2,3,71,67,70,69,83,81,441,2029,CB,H\M,Spurs,Belgium,Barclays PL,15500
+Mertens,82,4,4,89,78,80,87,37,56,427,1988,CAM,H\L,Napoli,Belgium,Serie A TIM,21750
+Jonas,82,3,4,77,83,74,83,30,65,412,1932,ST,H\M,SL Benfica,Brazil,LIGA NOS,1250
+Schneiderlin,82,2,3,64,63,76,74,80,82,439,2020,CDM,M\H,Manchester Utd,France,Barclays PL,12250
+Sommer,82,1,4,84,82,85,86,48,76,461,929,GK,M\M,Bor. M'gladbach,Switzerland,Bundesliga,3950
+Giroud,82,2,3,67,82,69,71,38,83,410,1894,ST,M\M,Arsenal,France,Barclays PL,2950
+Willian,82,4,4,89,74,78,85,50,63,439,1942,RM,H\H,Chelsea,Brazil,Barclays PL,37000
+Muslera,82,1,2,83,80,75,86,60,83,467,1007,GK,M\M,Galatasaray SK,Uruguay,Süper Lig,1300
+Benteke,82,3,4,77,81,65,75,33,85,416,1874,ST,M\M,Liverpool,Belgium,Barclays PL,15000
+Azpilicueta,82,3,3,80,56,74,74,84,76,444,2041,LB,M\M,Chelsea,Spain,Barclays PL,8350
+Ramsey,82,3,3,69,78,79,80,68,76,450,2092,CM,H\H,Arsenal,Wales,Barclays PL,7750
+Gündogan,82,4,4,75,71,82,85,63,72,448,2087,CM,H\M,Bor. Dortmund,Germany,Bundesliga,24000
+Alex Teixeira,82,4,4,88,76,76,86,67,65,458,2036,CAM,H\M,FC Shakhtar,Brazil,Ukrayina Liha,7350
+Aubameyang,82,3,3,95,81,75,79,36,71,437,2001,ST,H\L,Bor. Dortmund,Gabon,Bundesliga,87000
+Trapp,82,1,4,83,79,79,85,45,80,451,816,GK,M\M,PSG,Germany,Ligue 1,1350
+Kagawa,82,4,4,80,67,75,87,34,49,392,1847,CAM,M\M,Bor. Dortmund,Japan,Bundesliga,11875
+Parejo,82,3,4,59,75,87,80,57,70,428,2028,CM,M\M,Valencia CF,Spain,Liga BBVA,3150
+Glik,82,2,2,62,24,43,53,85,82,349,1547,CB,L\M,Torino,Poland,Serie A TIM,3800
+Alex Sandro,82,3,2,85,65,75,81,80,75,461,2098,LB,H\M,Juventus,Brazil,Serie A TIM,22625
+Mustafi,82,2,3,69,57,62,55,83,80,406,1851,CB,L\H,Valencia CF,Germany,Liga BBVA,9900
+ter Stegen,82,1,4,83,81,82,85,38,78,447,881,GK,M\M,FC Barcelona,Germany,Liga BBVA,2650
+Manolas,82,3,2,81,19,42,60,85,82,369,1585,CB,M\H,Roma,Greece,Serie A TIM,2500
+Cuadrado,82,5,3,93,77,75,87,54,71,457,2062,RM,M\H,Juventus,Colombia,Serie A TIM,49875
+Gonalons,82,2,4,67,62,72,70,83,83,437,2023,CDM,M\H,Olympique Lyon,France,Ligue 1,1400
+Krychowiak,82,2,3,71,57,72,62,82,87,431,1958,CDM,M\H,Sevilla FC,Poland,Liga BBVA,5900
+de Vrij,82,2,4,66,41,58,66,85,76,392,1744,CB,M\M,Lazio,Netherlands,Serie A TIM,4250
+Cillessen,82,1,3,80,84,74,79,54,82,453,894,GK,M\M,Ajax,Netherlands,Eredivisie,900
+Konoplyanka,82,4,4,92,77,80,84,33,66,432,1959,LW,M\M,Sevilla FC,Ukraine,Liga BBVA,19250
+Lucas,82,4,3,93,73,75,87,44,62,434,1992,RW,M\M,PSG,Brazil,Ligue 1,31500
+Varane,82,2,3,79,45,60,63,84,76,407,1803,CB,M\M,Real Madrid,France,Liga BBVA,26750
+Roberto Firmino,82,4,3,76,76,78,84,40,69,423,1960,CAM,H\M,Liverpool,Brazil,Barclays PL,13125
+Sterling,82,4,3,93,71,73,87,46,61,431,1899,LM,H\M,Manchester City,England,Barclays PL,51000
+Bacca,82,2,2,83,83,65,80,24,77,412,1886,ST,H\M,Milan,Colombia,Serie A TIM,12500
+Stranzl,81,2,3,53,41,54,50,86,77,361,1632,CB,M\M,Bor. M'gladbach,Austria,Bundesliga,700
+Cassano,81,3,4,53,78,87,85,18,59,380,1808,CF,M\L,Sampdoria,Italy,Serie A TIM,700
+Klose,81,2,4,70,77,63,73,28,63,374,1752,ST,M\L,Lazio,Germany,Serie A TIM,700
+Quaresma,81,5,4,84,77,79,86,18,65,409,1896,RM,M\M,Beşiktaş JK,Portugal,Süper Lig,5450
+Drogba,81,3,4,63,83,74,75,36,78,409,1933,ST,M\M,Montreal Impact,Ivory Coast,MLS,750
+Mikel Arteta,81,3,4,43,73,82,78,73,65,414,2050,CM,M\M,Arsenal,Spain,Barclays PL,1450
+Motta,81,3,4,44,66,77,72,77,82,418,1994,CDM,M\M,PSG,Italy,Ligue 1,950
+Evra,81,3,2,78,51,72,76,82,74,433,2028,LB,M\H,Juventus,France,Serie A TIM,3100
+de Jong,81,2,3,71,51,69,71,78,86,426,1967,CDM,L\H,Milan,Netherlands,Serie A TIM,1075
+Jagielka,81,2,3,67,46,58,55,83,81,390,1811,CB,M\H,Everton,England,Barclays PL,3300
+Moyá,81,1,2,85,80,81,80,46,82,454,775,GK,M\M,Atlético Madrid,Spain,Liga BBVA,900
+Benaglio,81,1,3,84,78,64,81,42,80,429,837,GK,M\M,VfL Wolfsburg,Switzerland,Bundesliga,900
+Demichelis,81,2,3,34,40,53,49,83,76,335,1549,CB,L\M,Manchester City,Argentina,Barclays PL,1200
+Alex,81,2,3,53,58,50,53,83,81,378,1749,CB,M\M,Milan,Brazil,Serie A TIM,800
+Kaká,81,4,4,68,78,81,80,30,60,397,1862,CAM,H\M,Orlando City,Brazil,MLS,900
+Helton,81,1,3,83,78,74,85,64,77,461,1008,GK,M\M,FC Porto,Brazil,LIGA NOS,700
+Enyeama,81,1,3,78,80,77,90,50,78,453,1015,GK,M\M,LOSC Lille,Nigeria,Ligue 1,700
+Srna,81,3,3,77,75,85,75,78,77,467,2183,RB,H\H,FC Shakhtar,Croatia,Ukrayina Liha,700
+Negredo,81,3,3,70,81,68,75,39,83,416,1922,ST,H\H,Valencia CF,Spain,Liga BBVA,1100
+Jesús Navas,81,4,3,89,70,76,83,28,50,396,1836,RM,M\M,Manchester City,Spain,Barclays PL,7350
+Juanfran,81,3,3,84,59,73,77,77,78,448,2018,RB,H\M,Atlético Madrid,Spain,Liga BBVA,2550
+Akinfeev,81,1,3,83,75,79,85,51,78,451,795,GK,M\M,CSKA Moskva,Russia,Russian League,900
+Gignac,81,3,3,70,83,71,74,36,78,412,1899,ST,M\M,Tigres,France,LIGA Bancomer MX,700
+Dempsey,81,4,4,73,80,74,82,42,75,426,1994,ST,M\M,Sounders FC,United States,MLS,700
+Raúl Albiol,81,2,3,61,41,57,59,84,76,378,1710,CB,M\M,Napoli,Spain,Serie A TIM,1600
+Costil,81,1,3,82,80,78,85,49,82,456,738,GK,M\M,Stade Rennais,France,Ligue 1,800
+Ménez,81,4,4,86,77,71,85,32,60,411,1894,CF,M\L,Milan,France,Serie A TIM,4900
+Walcott,81,3,3,96,77,74,81,33,63,424,1916,RM,H\L,Arsenal,England,Barclays PL,18375
+Škrtel,81,2,2,62,38,48,53,82,82,365,1642,CB,M\H,Liverpool,Slovakia,Barclays PL,2900
+Sahin,81,3,4,54,68,84,81,69,61,417,1995,CM,M\M,Bor. Dortmund,Turkey,Bundesliga,1100
+José Fonte,81,2,3,56,35,52,62,84,79,368,1649,CB,M\H,Southampton,Portugal,Barclays PL,1550
+Piszczek,81,2,3,79,66,72,74,82,80,453,2060,RB,H\H,Bor. Dortmund,Poland,Bundesliga,14625
+Valbuena,81,4,3,86,73,80,83,31,49,402,1889,CAM,H\M,Olympique Lyon,France,Ligue 1,6450
+Payet,81,4,4,77,76,82,81,44,68,428,1983,CAM,H\M,West Ham,France,Barclays PL,13000
+Witsel,81,4,3,71,74,77,82,74,80,458,2112,CM,M\M,Zenit,Belgium,Russian League,3150
+Bender,81,2,3,68,64,76,73,82,81,444,2016,CM,H\H,Bayer 04,Germany,Bundesliga,1700
+Trémoulinas,81,2,3,85,64,79,78,77,74,457,2108,LB,H\M,Sevilla FC,France,Liga BBVA,4600
+Kiko Casilla,81,1,2,83,82,80,81,32,82,440,927,GK,M\M,Real Madrid,Spain,Liga BBVA,950
+Rui Patrício,81,1,2,84,80,83,80,50,79,456,884,GK,M\M,Sporting CP,Portugal,LIGA NOS,700
+Sergio Asenjo,81,1,3,84,81,80,83,59,81,468,960,GK,M\M,Villarreal CF,Spain,Liga BBVA,850
+Rémy,81,4,3,90,80,68,74,34,71,417,1893,ST,M\M,Chelsea,France,Barclays PL,22500
+Kjær,81,2,3,66,42,63,53,84,80,388,1757,CB,L\H,Fenerbahçe SK,Denmark,Süper Lig,850
+Fährmann,81,1,2,82,79,65,85,38,81,430,798,GK,M\M,FC Schalke 04,Germany,Bundesliga,2450
+Coleman,81,3,3,80,68,72,78,81,78,457,2037,RB,H\H,Everton,Republic of Ireland,Barclays PL,5150
+Džeko,81,3,4,66,84,67,72,31,72,392,1805,ST,M\M,Roma,Bosnia Herzegovina,Serie A TIM,800
+Jovetic,81,4,4,77,81,78,83,36,69,424,1974,ST,H\M,Inter,Montenegro,Serie A TIM,2700
+Cáceres,81,2,3,83,51,63,66,86,75,424,1971,CB,M\H,Juventus,Uruguay,Serie A TIM,13000
+Chedjou,81,2,3,74,60,64,67,82,84,431,1943,CB,M\M,Galatasaray SK,Cameroon,Süper Lig,3600
+Sakho,81,2,2,66,33,60,56,81,84,380,1687,CB,M\H,Liverpool,France,Barclays PL,4500
+Parolo,81,2,3,74,79,77,76,77,82,465,2132,CM,M\M,Lazio,Italy,Serie A TIM,3100
+Alderweireld,81,2,4,63,59,67,63,83,79,414,1917,CB,M\M,Spurs,Belgium,Barclays PL,3550
+Darmian,81,2,4,79,51,69,73,82,78,432,1974,RB,H\H,Manchester Utd,Italy,Barclays PL,6500
+Giovinco,81,4,4,90,77,79,85,26,60,417,1940,CF,H\M,Toronto FC,Italy,MLS,3250
+Feghouli,81,4,3,89,73,76,85,32,63,418,1904,RW,H\M,Valencia CF,Algeria,Liga BBVA,5400
+José Callejón,81,3,2,90,80,73,83,21,62,409,1877,CAM,H\M,Napoli,Spain,Serie A TIM,6800
+Toprak,81,2,4,75,39,62,66,84,74,400,1794,CB,M\M,Bayer 04,Turkey,Bundesliga,5800
+Musacchio,81,2,3,68,51,65,57,84,79,404,1861,CB,M\M,Villarreal CF,Argentina,Liga BBVA,1950
+Nkoulou,81,2,3,76,44,67,70,82,75,414,1881,CB,M\M,Marseille,Cameroon,Ligue 1,4600
+Iborra,81,2,4,53,68,74,69,81,83,428,1998,CDM,M\M,Sevilla FC,Spain,Liga BBVA,800
+Bony,81,3,4,72,83,59,74,39,85,412,1896,ST,M\L,Manchester City,Ivory Coast,Barclays PL,4850
+Clyne,81,3,3,86,61,71,78,79,76,451,2002,RB,H\M,Liverpool,England,Barclays PL,12000
+Douglas Costa,81,5,3,90,75,78,86,50,63,442,2029,RM,M\L,FC Bayern,Brazil,Bundesliga,63000
+Subašic,81,1,2,82,78,79,83,51,81,454,966,GK,M\M,AS Monaco,Croatia,Ligue 1,700
+Mkhitaryan,81,4,5,86,72,76,86,55,71,446,2077,RM,H\H,Bor. Dortmund,Armenia,Bundesliga,7500
+Pereyra,81,4,4,85,71,81,85,74,75,471,2169,CAM,H\H,Juventus,Argentina,Serie A TIM,18000
+Víctor Ruíz,81,2,2,67,42,65,62,82,79,397,1797,CB,M\M,Villarreal CF,Spain,Liga BBVA,1850
+Medel,81,2,4,76,51,69,70,79,89,434,1986,CDM,L\H,Inter,Chile,Serie A TIM,1850
+Perin,81,1,3,80,78,71,90,57,78,454,856,GK,M\M,Genoa,Italy,Serie A TIM,1300
+Herrmann,81,3,3,91,75,75,83,31,62,417,1902,RM,M\M,Bor. M'gladbach,Germany,Bundesliga,5000
+Insigne,81,4,3,89,70,78,87,27,47,398,1847,CAM,M\M,Napoli,Italy,Serie A TIM,4900
+Danilo,81,3,4,81,76,77,78,80,80,472,2165,RB,H\M,Real Madrid,Brazil,Liga BBVA,7500
+Lopes,81,1,2,85,76,72,87,60,77,457,933,GK,M\M,Olympique Lyon,Portugal,Ligue 1,950
+Xhaka,81,3,4,51,66,80,71,70,77,415,1943,CM,M\M,Bor. M'gladbach,Switzerland,Bundesliga,950
+Vitolo,81,3,4,80,73,80,82,27,72,414,1855,LM,M\H,Sevilla FC,Spain,Liga BBVA,1200
+Allan,81,3,3,76,58,73,78,79,81,445,2031,CDM,M\H,Napoli,Brazil,Serie A TIM,1850
+Oblak,81,1,3,77,84,72,82,43,83,441,887,GK,M\M,Atlético Madrid,Slovenia,Liga BBVA,750
+Morata,81,3,4,84,81,66,82,23,73,409,1843,ST,M\L,Juventus,Spain,Serie A TIM,12375
+Rojo,81,2,2,72,60,66,66,81,82,427,1966,CB,M\M,Manchester Utd,Argentina,Barclays PL,12000
+Depay,81,4,2,90,78,73,85,29,75,430,1980,LW,H\M,Manchester Utd,Netherlands,Barclays PL,60750
+Iñigo Martínez,81,2,2,74,54,55,60,83,80,406,1827,CB,M\M,Real Sociedad,Spain,Liga BBVA,6350
+Savic,81,2,3,67,35,52,56,84,76,370,1647,CB,M\H,Atlético Madrid,Montenegro,Liga BBVA,2100
+Carvajal,81,2,3,81,40,71,79,81,82,434,1951,RB,H\M,Real Madrid,Spain,Liga BBVA,5350
+William Carvalho,81,3,3,59,58,72,74,83,85,431,1940,CDM,M\H,Sporting CP,Portugal,LIGA NOS,800
+Marquinhos,81,2,3,73,38,67,69,84,76,407,1814,CB,M\M,PSG,Brazil,Ligue 1,8200
+Dante,81,3,3,56,53,67,64,83,75,398,1839,CB,M\M,VfL Wolfsburg,Brazil,Bundesliga,3400
+Raúl García,81,3,3,67,76,82,78,66,80,449,2091,CAM,M\H,Athletic Bilbao,Spain,Liga BBVA,1150
+Hernanes,81,4,5,70,77,83,83,46,68,427,2019,CAM,M\M,Juventus,Brazil,Serie A TIM,5200
+Perišic,81,4,5,80,80,79,79,42,74,434,2036,LM,M\M,Inter,Croatia,Serie A TIM,2150
+Abdennour,81,2,3,67,58,63,64,82,84,418,1868,CB,H\H,Valencia CF,Tunisia,Liga BBVA,3600
+Keane,80,3,4,70,83,75,83,31,68,410,1920,ST,H\L,LA Galaxy,Republic of Ireland,MLS,700
+Totti,80,3,5,38,84,87,81,21,68,379,1828,CF,M\M,Roma,Italy,Serie A TIM,750
+Howard,80,1,3,82,76,77,82,50,81,448,867,GK,M\M,Everton,United States,Barclays PL,4400
+José Reina,80,1,3,81,78,83,81,50,80,453,870,GK,M\M,Napoli,Spain,Serie A TIM,950
+Tošic,80,4,3,89,77,76,85,22,54,403,1861,RM,H\M,CSKA Moskva,Serbia,Russian League,900
+Iraola,80,3,3,78,64,77,78,80,81,458,2093,RB,H\M,NY City FC,Spain,MLS,950
+David Villa,80,4,5,72,83,72,82,32,64,405,1925,ST,H\M,NY City FC,Spain,MLS,850
+Maicon,80,2,3,78,72,77,78,78,78,461,2140,RB,H\M,Roma,Brazil,Serie A TIM,1500
+Fernandinho,80,3,4,77,74,78,80,74,77,460,2118,CM,M\H,Manchester City,Brazil,Barclays PL,11875
+Kießling,80,2,3,66,82,70,67,44,81,410,1899,ST,H\H,Bayer 04,Germany,Bundesliga,800
+Milner,80,3,4,68,76,83,77,69,76,449,2125,CM,H\H,Liverpool,England,Barclays PL,2700
+Marchetti,80,1,2,82,76,66,87,55,78,444,922,GK,M\M,Lazio,Italy,Serie A TIM,950
+Ochoa,80,1,3,83,67,77,87,47,79,440,842,GK,M\M,Málaga CF,Mexico,Liga BBVA,700
+Rodríguez,80,2,3,68,44,60,65,83,75,395,1795,CB,M\H,Fiorentina,Argentina,Serie A TIM,900
+Tito,80,2,3,78,46,68,72,79,66,409,1852,RB,M\M,Rayo Vallecano,Spain,Liga BBVA,700
+Javi Fuego,80,3,3,67,60,71,67,79,81,425,1965,CDM,M\H,Valencia CF,Spain,Liga BBVA,700
+Arbeloa,80,2,3,73,61,72,62,82,78,428,1931,RB,M\M,Real Madrid,Spain,Liga BBVA,950
+Agger,80,2,2,71,64,67,60,81,74,417,1879,CB,M\M,Brøndby IF,Denmark,Alka Superliga,700
+Clichy,80,2,4,84,43,65,74,80,68,414,1880,LB,H\M,Manchester City,France,Barclays PL,5400
+Young,80,4,3,85,74,78,82,35,56,410,1902,LM,H\M,Manchester Utd,England,Barclays PL,5700
+Palacio,80,3,3,85,78,76,84,38,71,432,2015,ST,H\M,Inter,Argentina,Serie A TIM,4500
+Bradley,80,2,3,69,69,79,78,72,83,450,2088,CM,H\H,Toronto FC,United States,MLS,800
+Vermaelen,80,2,3,70,64,70,65,81,76,426,1973,CB,H\M,FC Barcelona,Belgium,Liga BBVA,3800
+Debuchy,80,3,3,75,65,73,74,80,78,445,2066,RB,H\M,Arsenal,France,Barclays PL,2800
+Inler,80,2,4,67,71,78,74,76,78,444,2075,CDM,M\M,Leicester City,Switzerland,Barclays PL,900
+Lavezzi,80,4,4,82,73,74,82,33,73,417,1918,LW,H\M,PSG,Argentina,Ligue 1,3850
+Trashorras,80,3,3,40,70,86,74,72,70,412,1955,CDM,M\M,Rayo Vallecano,Spain,Liga BBVA,700
+Javi García,80,2,3,63,67,75,68,80,86,439,2038,CDM,M\H,Zenit,Spain,Russian League,750
+Llorente,80,2,3,60,77,60,69,28,76,370,1665,ST,M\M,Sevilla FC,Spain,Liga BBVA,700
+Dembélé,80,4,2,77,72,75,82,69,82,457,2061,CM,M\M,Spurs,Belgium,Barclays PL,7300
+Rossi,80,3,3,82,83,74,84,22,52,397,1870,ST,H\M,Fiorentina,Italy,Serie A TIM,1900
+Diarra,80,2,3,77,52,72,75,80,69,425,1935,CDM,M\H,Marseille,France,Ligue 1,1500
+Williams,80,2,4,68,43,55,62,81,82,391,1722,CB,M\H,Swansea City,Wales,Barclays PL,2200
+Boussoufa,80,5,3,80,72,82,84,42,55,415,1982,CAM,M\M,Lokomotiv,Morocco,Russian League,850
+Jardel,80,2,3,63,44,51,54,83,82,377,1634,CB,M\H,SL Benfica,Brazil,LIGA NOS,700
+Guarín,80,3,3,79,80,79,82,70,88,478,2189,CM,H\H,Inter,Colombia,Serie A TIM,16000
+Shawcross,80,2,3,60,44,52,50,82,84,372,1653,CB,M\H,Stoke City,England,Barclays PL,1200
+Gervinho,80,3,3,92,69,70,81,28,64,404,1821,LW,H\M,Roma,Ivory Coast,Serie A TIM,3400
+Guardado,80,3,2,83,67,77,83,66,67,443,2067,CM,H\H,PSV,Mexico,Eredivisie,900
+Mirallas,80,4,4,88,77,77,83,47,63,435,2002,LM,H\M,Everton,Belgium,Barclays PL,9450
+Coke,80,2,4,77,63,70,74,79,74,437,1985,RB,H\M,Sevilla FC,Spain,Liga BBVA,700
+Criscito,80,2,3,82,63,73,75,79,77,449,2035,LB,H\M,Zenit,Italy,Russian League,950
+Bender,80,2,4,65,55,65,63,84,82,414,1885,CDM,M\H,Bor. Dortmund,Germany,Bundesliga,750
+Vieirinha,80,4,4,80,74,76,86,64,66,446,2046,RM,H\M,VfL Wolfsburg,Portugal,Bundesliga,800
+Beñat,80,2,3,66,76,84,75,66,73,440,2072,CM,M\M,Athletic Bilbao,Spain,Liga BBVA,1100
+Nacho Monreal,80,2,2,77,53,72,75,81,72,430,1985,LB,M\H,Arsenal,Spain,Barclays PL,1200
+Ivanovic,80,2,3,65,61,64,61,87,84,422,1941,RB,H\M,Chelsea,Serbia,Barclays PL,1900
+Banega,80,4,4,67,70,83,82,65,69,436,2039,CAM,M\M,Sevilla FC,Argentina,Liga BBVA,750
+Corluka,80,3,3,51,47,67,66,82,82,395,1835,CB,M\M,Lokomotiv,Croatia,Russian League,850
+Pereira,80,2,3,76,69,74,78,81,79,457,2127,RB,H\M,FC Porto,Uruguay,LIGA NOS,850
+Dzsudzsák,80,4,4,81,81,78,80,27,68,415,1926,LM,M\L,Bursaspor,Hungary,Süper Lig,800
+Subotic,80,2,3,71,49,54,48,83,78,383,1750,CB,M\M,Bor. Dortmund,Serbia,Bundesliga,3800
+Roberto,80,1,2,83,71,73,86,45,79,437,932,GK,M\M,Olympiakos CFP,Spain,Hellas Liga,700
+Piatti,80,4,2,87,71,75,82,42,59,416,1924,LW,H\M,Valencia CF,Argentina,Liga BBVA,2900
+Brahimi,80,4,3,81,71,75,88,40,58,413,1922,LW,M\M,FC Porto,Algeria,LIGA NOS,950
+Ramires,80,3,3,88,69,76,81,78,73,465,2122,CDM,H\H,Chelsea,Brazil,Barclays PL,23000
+Gibbs,80,3,2,81,57,72,77,80,72,439,1991,LB,H\M,Arsenal,England,Barclays PL,2800
+Djordjevic,80,2,2,75,79,58,71,37,84,404,1857,ST,M\H,Lazio,Serbia,Serie A TIM,700
+Balotelli,80,4,4,77,80,68,79,30,78,412,1887,ST,L\L,Milan,Italy,Serie A TIM,5000
+Kivrak,80,1,2,81,78,79,86,67,78,469,849,GK,M\M,Trabzonspor,Turkey,Süper Lig,800
+Maurício,80,2,3,71,52,56,58,82,80,399,1793,CB,M\H,Lazio,Brazil,Serie A TIM,4500
+Smolnikov,80,2,3,87,63,77,75,78,72,452,2014,RB,M\M,Zenit,Russia,Russian League,900
+Taison,80,4,3,90,77,74,85,47,63,436,1977,CAM,M\M,FC Shakhtar,Brazil,Ukrayina Liha,2200
+Rondón,80,4,4,80,78,56,74,31,80,399,1748,ST,H\M,West Brom,Venezuela,Barclays PL,4500
+Guaita,80,1,3,81,78,73,86,51,77,446,906,GK,M\M,Getafe CF,Spain,Liga BBVA,700
+Strootman,80,2,3,67,72,79,76,75,81,450,2073,CM,H\H,Roma,Netherlands,Serie A TIM,1400
+De Marcos,80,3,3,89,62,73,78,74,80,456,2068,RB,H\M,Athletic Bilbao,Spain,Liga BBVA,3700
+Jantschke,80,2,3,66,41,65,68,84,76,400,1846,CB,M\M,Bor. M'gladbach,Germany,Bundesliga,1600
+Mangala,80,2,4,77,41,56,61,79,85,399,1799,CB,M\H,Manchester City,France,Barclays PL,14250
+El Shaarawy,80,4,4,86,75,71,84,31,60,407,1878,LW,H\H,AS Monaco,Italy,Ligue 1,6000
+Salvio,80,4,4,89,75,73,84,44,69,434,1999,RM,H\M,SL Benfica,Argentina,LIGA NOS,900
+Töre,80,4,4,87,72,79,85,38,76,437,1990,RM,H\L,Beşiktaş JK,Turkey,Süper Lig,1300
+Maicon,80,2,3,66,53,66,58,81,83,407,1837,CB,M\M,FC Porto,Brazil,LIGA NOS,1500
+Lukaku,80,3,4,82,80,66,73,33,82,416,1861,ST,M\M,Everton,Belgium,Barclays PL,14625
+Baša,80,2,3,58,56,58,56,81,80,389,1735,CB,M\M,LOSC Lille,Montenegro,Ligue 1,850
+Schürrle,80,4,4,89,80,75,82,35,67,428,1981,LM,M\M,VfL Wolfsburg,Germany,Bundesliga,16875
+Shaqiri,80,4,4,87,77,77,85,57,74,457,2085,RM,H\M,Stoke City,Switzerland,Barclays PL,11500
+Jones,80,2,3,66,56,65,61,82,80,410,1842,CB,M\H,Manchester Utd,England,Barclays PL,2900
+Matip,80,2,2,72,46,68,66,82,76,410,1826,CB,M\M,FC Schalke 04,Cameroon,Bundesliga,3900
+Aurier,80,3,3,85,66,73,77,78,81,460,2069,RB,H\H,PSG,Ivory Coast,Ligue 1,5100
+Marc Bartra,80,2,3,72,46,62,67,84,69,400,1825,CB,H\M,FC Barcelona,Spain,Liga BBVA,4700
+Volland,80,3,3,81,80,77,81,39,82,440,2022,RM,H\H,1899 Hoffenheim,Germany,Bundesliga,1600
+Kurzawa,80,3,3,79,69,76,77,79,75,455,2084,LB,H\M,PSG,France,Ligue 1,3400
+Carrillo,80,5,4,91,77,74,82,30,70,424,1936,RM,H\M,Sporting CP,Peru,LIGA NOS,2200
+Shatov,80,4,4,87,74,76,82,52,67,438,1952,LW,H\M,Zenit,Russia,Russian League,850
+Promes,80,4,4,88,80,72,82,28,67,417,1908,RW,H\L,Spartak Moskva,Netherlands,Russian League,1700
+Salah,80,4,4,91,72,71,85,45,65,429,1940,RW,H\M,Roma,Egypt,Serie A TIM,8000
+Berardi,80,3,3,87,79,75,83,30,70,424,1952,RW,H\M,Sassuolo,Italy,Serie A TIM,3900
+Gayà,80,2,3,87,61,76,77,78,69,448,2047,LB,H\M,Valencia CF,Spain,Liga BBVA,3500
+Aderlan Santos,80,2,2,55,53,48,59,84,79,378,1726,CB,M\M,Valencia CF,Brazil,Liga BBVA,800
+Maksimovic,80,2,3,66,28,47,55,84,79,359,1559,CB,M\H,Torino,Serbia,Serie A TIM,700
+Blaszczykowski,80,3,4,82,72,78,81,58,72,443,2043,RM,M\M,Fiorentina,Poland,Serie A TIM,1300
+Fábio Coentrão,80,3,2,78,66,73,79,78,72,446,2056,LB,M\M,AS Monaco,Portugal,Ligue 1,1000
+Hernández,80,3,3,86,80,64,76,31,63,400,1867,ST,M\L,Bayer 04,Mexico,Bundesliga,8800
+D'Alessandro,80,5,4,70,74,82,85,37,63,411,1939,CAM,M\M,Sport Club Internacional,Argentina,Liga do Brasil,750
+Victor,80,1,3,81,79,69,83,46,79,437,843,GK,M\M,Clube Atlético Mineiro,Brazil,Liga do Brasil,700
+Dedé,80,2,2,68,48,66,61,82,81,406,1792,CB,M\H,Cruzeiro,Brazil,Liga do Brasil,800
