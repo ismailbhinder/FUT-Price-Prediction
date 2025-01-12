@@ -1,4 +1,4 @@
-Name,Rating,SkillsMoves,WeakFoot,Pace,Shooting,Passing,Dribbling,Defending,Phyiscality,BaseStats,InGameStats,Position,WorkRate,Club,Country,League,Price
+Name,Rating,SkillsMoves,WeakFoot,Pace/Diving,Shooting/Handling,Passing/Kicking,Dribbling/Reflexes,Defending/Speed,Phyiscality/Positioning,BaseStats,InGameStats,Position,WorkRate,Club,Country,League,Price
 Cristiano Ronaldo,94,5,4,92,92,81,91,33,80,469,2166,LW,H\L,Real Madrid,Portugal,LaLiga Santander,1243307
 Messi,93,4,4,89,90,86,96,26,61,448,2099,RW,M\M,FC Barcelona,Argentina,LaLiga Santander,925170
 Neuer,92,1,4,89,90,95,89,58,91,512,1037,GK,M\M,FC Bayern,Germany,Bundesliga,164500
